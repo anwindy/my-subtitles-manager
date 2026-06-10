@@ -6,6 +6,9 @@ async function fetchSubtitles() {
         const response = await fetch('data.json');
         allMovies = await response.json();
         renderMovies(allMovies);
+        
+        // KIỂM TRA ĐƯỜNG LINK: Nếu trên link có sẵn #slug-phim thì mở luôn phim đó
+        checkUrlHash();
     } catch (error) {
         console.error("Lỗi nạp dữ liệu: ", error);
     }
@@ -24,7 +27,10 @@ function renderMovies(moviesList) {
     moviesList.forEach(movie => {
         const card = document.createElement('div');
         card.className = 'movie-card';
-        card.onclick = () => openSubModal(movie); // Click để mở danh sách phụ đề chi tiết
+        // Thay vì chỉ mở Modal, ta sẽ đổi Hash trên URL
+        card.onclick = () => {
+            window.location.hash = movie.slug;
+        }; 
 
         card.innerHTML = `
             <img src="${movie.poster}" alt="${movie.title}">
@@ -59,10 +65,27 @@ document.getElementById('mainSearch').addEventListener('input', handleSearch);
 
 function resetSearch() {
     document.getElementById('mainSearch').value = '';
+    window.location.hash = ''; // Xóa hash khi bấm về trang chủ
     handleSearch();
 }
 
-// 4. Quản lý Đóng/Mở Modal Phụ Đề
+// 4. Hàm kiểm tra URL Hash để mở đúng phim theo link
+function checkUrlHash() {
+    const hash = window.location.hash.substring(1); // Lấy chữ sau dấu #
+    if (hash) {
+        const matchedMovie = allMovies.find(movie => movie.slug === hash);
+        if (matchedMovie) {
+            openSubModal(matchedMovie);
+        }
+    } else {
+        closeModal();
+    }
+}
+
+// Theo dõi nếu người dùng bấm "Back" (Quay lại) trên trình duyệt hoặc thay đổi URL
+window.addEventListener('hashchange', checkUrlHash);
+
+// 5. Quản lý Đóng/Mở Modal Phụ Đề
 function openSubModal(movie) {
     document.getElementById('modalPoster').src = movie.poster;
     document.getElementById('modalMovieTitle').innerText = movie.title;
@@ -71,7 +94,6 @@ function openSubModal(movie) {
     const tbody = document.getElementById('modalSubList');
     tbody.innerHTML = '';
 
-    // Đổ danh sách file .srt của phim này vào bảng
     movie.subs.forEach(sub => {
         const row = `
             <tr>
@@ -90,11 +112,17 @@ function closeModal() {
     document.getElementById('subModal').style.display = 'none';
 }
 
-// Đóng modal nếu người dùng click ra ngoài vùng bảng dữ liệu
+// Khi bấm nút X hoặc bấm ra ngoài bảng, ta xóa hash trên URL để đóng tab phim
+function closeMovieView() {
+    window.location.hash = ''; // Tự động kích hoạt đóng modal qua sự kiện hashchange
+}
+
+// Cập nhật lại nút đóng trong HTML (Sửa hàm gọi thành closeMovieView)
+document.querySelector('.close-btn').setAttribute('onclick', 'closeMovieView()');
 window.onclick = function(event) {
     const modal = document.getElementById('subModal');
     if (event.target === modal) {
-        modal.style.display = 'none';
+        closeMovieView();
     }
 }
 
