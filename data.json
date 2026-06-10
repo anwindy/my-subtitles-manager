@@ -1,10 +1,25 @@
 [
   {
     "tmdb_id": "240437",
-    "type": "tv", 
+    "type": "tv",
+    "slug": "tv-240437",
+    "title": "Juujika no Rokunin (Thập Tự Bản Án)",
+    "year": "2024",
+    "poster": "https://images.weserv.nl/?url=https://image.tmdb.org/t/p/w500/link-anh-poster-cua-ban.jpg",
     "subs": [
       {"name": "Juujika.no.Rokunin.S01E01.1080p.srt", "lang": "Việt Nam", "flag": "🇻🇳", "url": "subs/juujika-s01e01-vi.srt"},
       {"name": "Juujika.no.Rokunin.S01E01.720p.srt", "lang": "English", "flag": "🇺🇸", "url": "subs/juujika-s01e01-en.srt"}
+    ]
+  },
+  {
+    "tmdb_id": "27205",
+    "type": "movie",
+    "slug": "movie-27205",
+    "title": "Inception (Kẻ Đánh Cắp Giấc Mơ)",
+    "year": "2010",
+    "poster": "https://images.weserv.nl/?url=https://image.tmdb.org/t/p/w500/edv5CZvYjY989wH6fGzja9gAbm1.jpg",
+    "subs": [
+      {"name": "Inception.2010.Bluray.1080p.x264.srt", "lang": "Việt Nam", "flag": "🇻🇳", "url": "subs/inception-vi.srt"}
     ]
   }
 ]
