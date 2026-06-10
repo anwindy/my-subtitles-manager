@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản Lý File Phụ Đề SRT</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>🎬 Hệ Thống Quản Lý Phụ Đề ({⚡} 1000+ Files)</h1>
+        
+        <div class="filter-section">
+            <input type="text" id="searchBar" placeholder="Tìm kiếm tên phim, phụ đề...">
+            
+            <select id="categoryFilter">
+                <option value="">Tất cả thể loại</option>
+                <option value="Phim Lẻ">Phim Lẻ</option>
+                <option value="Phim Bộ">Phim Bộ</option>
+            </select>
+
+            <select id="langFilter">
+                <option value="">Tất cả ngôn ngữ</option>
+                <option value="Tiếng Việt">Tiếng Việt</option>
+                <option value="Tiếng Anh">Tiếng Anh</option>
+            </select>
+        </div>
+
+        <table class="sub-table">
+            <thead>
+                <tr>
+                    <th>STT</th>
+                    <th>Tên Phụ Đề</th>
+                    <th>Thể Loại</th>
+                    <th>Ngôn Ngữ</th>
+                    <th>Hành Động</th>
+                </tr>
+            </thead>
+            <tbody id="subList">
+                </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

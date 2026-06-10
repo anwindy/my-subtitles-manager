@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking Bad - Season 1 Episode 1",
+    "category": "Phim Bộ",
+    "language": "Tiếng Việt",
+    "file_url": "https://raw.githubusercontent.com/username/repo/main/subs/breaking-bad-s01e01.srt"
+  },
+  {
+    "id": 2,
+    "title": "Inception (2010)",
+    "category": "Phim Lẻ",
+    "language": "Tiếng Anh",
+    "file_url": "https://raw.githubusercontent.com/username/repo/main/subs/inception-2010.srt"
+  }
+]
