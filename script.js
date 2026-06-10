@@ -1,77 +1,79 @@
-let allMoviesData = [];
+let allMovies = [];
 
-// 1. Tải dữ liệu cục bộ từ data.json
+// 1. Tải dữ liệu từ data.json khi trang web load xong
 async function fetchSubtitles() {
     try {
         const response = await fetch('data.json');
-        allMoviesData = await response.json();
+        allMovies = await response.json();
+        renderMovies(allMovies);
         
-        // Hiển thị ngay danh sách phim lên giao diện
-        renderMovies(allMoviesData);
-        
-        // Kiểm tra xem người dùng có vào bằng link trực tiếp không (Ví dụ: #tv-240437)
+        // KIỂM TRA ĐƯỜNG LINK: Nếu trên link có sẵn #slug-phim thì mở luôn phim đó
         checkUrlHash();
     } catch (error) {
-        console.error("Lỗi nạp dữ liệu cục bộ: ", error);
+        console.error("Lỗi nạp dữ liệu: ", error);
     }
 }
 
-// 2. Hiển thị các thẻ phim ra màn hình chính
+// 2. Hàm hiển thị danh sách phim ra màn hình chính
 function renderMovies(moviesList) {
     const grid = document.getElementById('moviesGrid');
     grid.innerHTML = '';
 
     if (moviesList.length === 0) {
-        grid.innerHTML = `<p style="grid-column: 1/-1; text-align:center; color: var(--text-muted);">Không tìm thấy phim phù hợp.</p>`;
+        grid.innerHTML = `<p style="grid-column: 1/-1; text-align:center; color: var(--text-muted);">No results found.</p>`;
         return;
     }
 
     moviesList.forEach(movie => {
         const card = document.createElement('div');
         card.className = 'movie-card';
-        // Thay đổi URL hash để kích hoạt mở trang quản lý phim
-        card.onclick = () => { window.location.hash = movie.slug; }; 
+        // Thay vì chỉ mở Modal, ta sẽ đổi Hash trên URL
+        card.onclick = () => {
+            window.location.hash = movie.slug;
+        }; 
 
         card.innerHTML = `
             <img src="${movie.poster}" alt="${movie.title}">
             <div class="movie-info">
                 <h3>${movie.title}</h3>
-                <div class="movie-meta">${movie.year} • ${movie.type.toUpperCase()}</div>
+                <div class="movie-meta">${movie.year} • ${movie.type}</div>
             </div>
         `;
         grid.appendChild(card);
     });
 }
 
-// 3. Xử lý tìm kiếm (Tìm theo Tên hoặc theo ID phim)
+// 3. Logic tìm kiếm từ khóa phim
 function handleSearch() {
     const query = document.getElementById('mainSearch').value.toLowerCase().trim();
     const titleSection = document.getElementById('sectionTitle');
 
     if (query === '') {
         titleSection.innerText = "Popular Titles";
-        renderMovies(allMoviesData);
+        renderMovies(allMovies);
     } else {
-        titleSection.innerText = `Kết quả tìm kiếm cho "${query}"`;
-        const filtered = allMoviesData.filter(movie => 
-            movie.title.toLowerCase().includes(query) || movie.tmdb_id.includes(query)
+        titleSection.innerText = `Search Results for "${query}"`;
+        const filtered = allMovies.filter(movie => 
+            movie.title.toLowerCase().includes(query)
         );
         renderMovies(filtered);
     }
 }
+
+// Gắn sự kiện lắng nghe người dùng gõ chữ
 document.getElementById('mainSearch').addEventListener('input', handleSearch);
 
 function resetSearch() {
     document.getElementById('mainSearch').value = '';
-    window.location.hash = '';
+    window.location.hash = ''; // Xóa hash khi bấm về trang chủ
     handleSearch();
 }
 
-// 4. Kiểm tra URL hash để điều hướng thẳng vào trang sub của phim
+// 4. Hàm kiểm tra URL Hash để mở đúng phim theo link
 function checkUrlHash() {
-    const hash = window.location.hash.substring(1);
+    const hash = window.location.hash.substring(1); // Lấy chữ sau dấu #
     if (hash) {
-        const matchedMovie = allMoviesData.find(movie => movie.slug === hash);
+        const matchedMovie = allMovies.find(movie => movie.slug === hash);
         if (matchedMovie) {
             openSubModal(matchedMovie);
         }
@@ -79,13 +81,15 @@ function checkUrlHash() {
         closeModal();
     }
 }
+
+// Theo dõi nếu người dùng bấm "Back" (Quay lại) trên trình duyệt hoặc thay đổi URL
 window.addEventListener('hashchange', checkUrlHash);
 
-// 5. Hiển thị bảng quản lý phụ đề chi tiết của phim đó
+// 5. Quản lý Đóng/Mở Modal Phụ Đề
 function openSubModal(movie) {
     document.getElementById('modalPoster').src = movie.poster;
     document.getElementById('modalMovieTitle').innerText = movie.title;
-    document.getElementById('modalMovieInfo').innerText = `${movie.year} • ID: ${movie.tmdb_id}`;
+    document.getElementById('modalMovieInfo').innerText = `${movie.year} • ${movie.type}`;
     
     const tbody = document.getElementById('modalSubList');
     tbody.innerHTML = '';
@@ -108,11 +112,12 @@ function closeModal() {
     document.getElementById('subModal').style.display = 'none';
 }
 
-// Khi đóng phim, xóa hash trên thanh địa chỉ để đưa URL về trạng thái trang chủ
+// Khi bấm nút X hoặc bấm ra ngoài bảng, ta xóa hash trên URL để đóng tab phim
 function closeMovieView() {
-    window.location.hash = '';
+    window.location.hash = ''; // Tự động kích hoạt đóng modal qua sự kiện hashchange
 }
 
+// Cập nhật lại nút đóng trong HTML (Sửa hàm gọi thành closeMovieView)
 document.querySelector('.close-btn').setAttribute('onclick', 'closeMovieView()');
 window.onclick = function(event) {
     const modal = document.getElementById('subModal');
@@ -121,5 +126,4 @@ window.onclick = function(event) {
     }
 }
 
-// Chạy ứng dụng
 window.onload = fetchSubtitles;
