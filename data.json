@@ -1,6 +1,7 @@
 [
   {
     "id": "1",
+    "slug": "breaking-bad-s1",
     "title": "Breaking Bad (Season 1)",
     "year": "2008",
     "type": "TV Series",
@@ -12,6 +13,7 @@
   },
   {
     "id": "2",
+    "slug": "inception-2010",
     "title": "Inception",
     "year": "2010",
     "type": "Movie",
