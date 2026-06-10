@@ -1,25 +1,10 @@
 [
   {
-    "id": "1",
-    "slug": "breaking-bad-s1",
-    "title": "Breaking Bad (Season 1)",
-    "year": "2008",
-    "type": "TV Series",
-    "poster": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=500&q=80",
+    "tmdb_id": "240437",
+    "type": "tv", 
     "subs": [
-      {"name": "Breaking.Bad.S01E01.720p.BluRay.x264", "lang": "Việt Nam", "flag": "🇻🇳", "url": "subs/bb-s01e01-vi.srt"},
-      {"name": "Breaking.Bad.S01E01.1080p.Web-DL", "lang": "English", "flag": "🇺🇸", "url": "subs/bb-s01e01-en.srt"}
-    ]
-  },
-  {
-    "id": "2",
-    "slug": "inception-2010",
-    "title": "Inception",
-    "year": "2010",
-    "type": "Movie",
-    "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500&q=80",
-    "subs": [
-      {"name": "Inception.2010.Bluray.1080p.DD5.1.x264", "lang": "Việt Nam", "flag": "🇻🇳", "url": "subs/inception-vi.srt"}
+      {"name": "Juujika.no.Rokunin.S01E01.1080p.srt", "lang": "Việt Nam", "flag": "🇻🇳", "url": "subs/juujika-s01e01-vi.srt"},
+      {"name": "Juujika.no.Rokunin.S01E01.720p.srt", "lang": "English", "flag": "🇺🇸", "url": "subs/juujika-s01e01-en.srt"}
     ]
   }
 ]
