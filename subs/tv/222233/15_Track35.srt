@@ -1,0 +1,4788 @@
+﻿1
+00:00:33,658 --> 00:00:35,994
+<c.vietnamese>NỐT TRẦM ĐỜI BÁC SĨ</c.vietnamese>
+
+2
+00:00:47,213 --> 00:00:48,923
+<c.vietnamese><i>Tôi muốn mua cho cô ấy chiếc nhẫn.</i></c.vietnamese>
+
+3
+00:00:50,216 --> 00:00:51,926
+<c.vietnamese><i>Tôi luôn muốn làm vậy.</i></c.vietnamese>
+
+4
+00:00:59,559 --> 00:01:02,854
+<c.vietnamese><i>Đó là lúc tôi nhận ra</i></c.vietnamese>
+
+5
+00:01:05,231 --> 00:01:07,484
+<c.vietnamese><i>tôi muốn ở bên cô ấy</i></c.vietnamese>
+
+6
+00:01:08,359 --> 00:01:09,778
+<c.vietnamese><i>thật lâu dài.</i></c.vietnamese>
+
+7
+00:01:12,530 --> 00:01:14,699
+<c.vietnamese>Cho tôi xem cái này được không?</c.vietnamese>
+
+8
+00:01:14,783 --> 00:01:16,743
+<c.vietnamese>- Vâng.
+- Cái có mở ra như này ấy.</c.vietnamese>
+
+9
+00:01:17,202 --> 00:01:18,411
+<c.vietnamese>Tôi lấy nó ngay.</c.vietnamese>
+
+10
+00:01:18,495 --> 00:01:19,704
+<c.vietnamese>Cảm ơn cô.</c.vietnamese>
+
+11
+00:01:38,181 --> 00:01:40,975
+<c.vietnamese><i>Mình nên đưa nó cho cậu ấy</i>
+<i>khi nào và như thế nào đây?</i></c.vietnamese>
+
+12
+00:01:52,529 --> 00:01:55,115
+<c.vietnamese><i>Nên đưa cho cậu ấy thế này? Hay thế này?</i></c.vietnamese>
+
+13
+00:01:57,367 --> 00:01:59,160
+<c.vietnamese><i>Hay là…</i></c.vietnamese>
+
+14
+00:02:00,036 --> 00:02:01,162
+<c.vietnamese><i>thế này…</i></c.vietnamese>
+
+15
+00:02:03,123 --> 00:02:04,124
+<c.vietnamese><i>Hay thế này?</i></c.vietnamese>
+
+16
+00:02:04,207 --> 00:02:05,959
+<c.vietnamese><i>Hay thế này? Hay có khi thế này?</i></c.vietnamese>
+
+17
+00:02:06,042 --> 00:02:07,252
+<c.vietnamese><i>Hay…</i></c.vietnamese>
+
+18
+00:02:07,794 --> 00:02:08,920
+<c.vietnamese>Úi trời?</c.vietnamese>
+
+19
+00:02:11,506 --> 00:02:12,507
+<c.vietnamese>Trời ạ.</c.vietnamese>
+
+20
+00:02:16,970 --> 00:02:17,846
+<c.vietnamese>Nó đâu rồi?</c.vietnamese>
+
+21
+00:02:19,180 --> 00:02:20,265
+<c.vietnamese>Cậu đang làm gì thế?</c.vietnamese>
+
+22
+00:02:20,890 --> 00:02:21,766
+<c.vietnamese>Có gì đâu.</c.vietnamese>
+
+23
+00:02:21,850 --> 00:02:23,184
+<c.vietnamese>Cậu vừa làm rơi gì à?</c.vietnamese>
+
+24
+00:02:23,268 --> 00:02:25,270
+<c.vietnamese>Không. Không có gì cả.</c.vietnamese>
+
+25
+00:02:25,353 --> 00:02:27,355
+<c.vietnamese>Cậu làm việc đi. Theo đuổi ước mơ.</c.vietnamese>
+
+26
+00:02:28,064 --> 00:02:29,274
+<c.vietnamese>Gì? Cậu làm rơi gì vậy?</c.vietnamese>
+
+27
+00:02:29,357 --> 00:02:32,986
+<c.vietnamese>Một đồng xu. 100 won, nhưng kệ nó đi.</c.vietnamese>
+
+28
+00:02:33,611 --> 00:02:35,697
+<c.vietnamese>Trời ạ.</c.vietnamese>
+
+29
+00:02:35,780 --> 00:02:36,614
+<c.vietnamese>Dùng cái này nè.</c.vietnamese>
+
+30
+00:02:36,698 --> 00:02:37,532
+<c.vietnamese>Gì?</c.vietnamese>
+
+31
+00:02:38,074 --> 00:02:40,118
+<c.vietnamese>Không, đừng mà! Để tớ…</c.vietnamese>
+
+32
+00:02:40,201 --> 00:02:41,369
+<c.vietnamese>Tớ làm được. Thôi mà.</c.vietnamese>
+
+33
+00:02:41,452 --> 00:02:42,620
+<c.vietnamese>Đừng làm mà!</c.vietnamese>
+
+34
+00:02:42,704 --> 00:02:45,707
+<c.vietnamese>Tớ không muốn đưa nó cho cậu kiểu này!</c.vietnamese>
+
+35
+00:02:45,790 --> 00:02:46,833
+<c.vietnamese>Đưa tớ cái gì?</c.vietnamese>
+
+36
+00:02:46,916 --> 00:02:48,668
+<c.vietnamese>- Đồng 100 won hả?
+- Gì?</c.vietnamese>
+
+37
+00:02:51,588 --> 00:02:55,300
+<c.vietnamese>- Thút thật là tớ có mua quà cho cậu.
+- Quà à?</c.vietnamese>
+
+38
+00:02:56,801 --> 00:02:58,595
+<c.vietnamese>- Thì…
+- Là nó à?</c.vietnamese>
+
+39
+00:03:02,056 --> 00:03:03,308
+<c.vietnamese>Được rồi, tớ nói luôn đây.</c.vietnamese>
+
+40
+00:03:06,102 --> 00:03:09,856
+<c.vietnamese>Tớ đã muốn đưa nó cho cậu.</c.vietnamese>
+
+41
+00:03:16,029 --> 00:03:17,113
+<c.vietnamese>Gián!</c.vietnamese>
+
+42
+00:03:17,739 --> 00:03:18,823
+<c.vietnamese>Qua đây!</c.vietnamese>
+
+43
+00:03:33,421 --> 00:03:35,173
+<c.vietnamese>Cậu vừa đẩy tớ và chạy đấy.</c.vietnamese>
+
+44
+00:03:36,299 --> 00:03:38,468
+<c.vietnamese>Tớ đời nào làm vậy. Tớ đâu có sợ gián.</c.vietnamese>
+
+45
+00:03:39,344 --> 00:03:40,553
+<c.vietnamese>NỐT TRẦM ĐỜI BÁC SĨ</c.vietnamese>
+
+46
+00:03:40,637 --> 00:03:42,013
+<c.vietnamese>Sao chúng chưa đi?</c.vietnamese>
+
+47
+00:03:43,056 --> 00:03:44,474
+<c.vietnamese>Tớ định tặng nhẫn cho cậu ấy.</c.vietnamese>
+
+48
+00:03:44,557 --> 00:03:47,393
+<c.vietnamese>Tớ đang nghĩ nên tặng kiểu gì
+thì làm rơi nhẫn.</c.vietnamese>
+
+49
+00:03:47,477 --> 00:03:48,478
+<c.vietnamese>Nó lăn xuống sofa.</c.vietnamese>
+
+50
+00:03:48,561 --> 00:03:50,813
+<c.vietnamese>Tớ tìm nó và biết tớ thấy gì không?</c.vietnamese>
+
+51
+00:03:50,897 --> 00:03:53,483
+<c.vietnamese>Gián, nên bọn tớ hoảng cả lên. Nhé?</c.vietnamese>
+
+52
+00:03:53,566 --> 00:03:55,235
+<c.vietnamese>Nên tớ chưa tặng được.</c.vietnamese>
+
+53
+00:03:58,154 --> 00:04:01,324
+<c.vietnamese>Tớ nghe nhiều người giấu nhẫn trong bánh.</c.vietnamese>
+
+54
+00:04:01,407 --> 00:04:03,868
+<c.vietnamese>Nhưng chưa nghe ai giấu nhẫn dưới sofa.</c.vietnamese>
+
+55
+00:04:03,952 --> 00:04:06,287
+<c.vietnamese>- Cậu là dở hơi nhất.
+- Kệ đi.</c.vietnamese>
+
+56
+00:04:06,371 --> 00:04:08,206
+<c.vietnamese>Chuyện gì cũng tệ.</c.vietnamese>
+
+57
+00:04:09,290 --> 00:04:12,543
+<c.vietnamese>Vậy cậu nói sao với cô ấy?
+Nói chuyện cái nhẫn chưa?</c.vietnamese>
+
+58
+00:04:12,627 --> 00:04:14,921
+<c.vietnamese>Dĩ nhiên là chưa? Sao mà nói được?</c.vietnamese>
+
+59
+00:04:15,630 --> 00:04:19,968
+<c.vietnamese>Tớ giả ngốc vì chẳng muốn
+cô ấy nhớ lại mấy con gián.</c.vietnamese>
+
+60
+00:04:20,051 --> 00:04:21,719
+<c.vietnamese>Tốt. Chờ đã.</c.vietnamese>
+
+61
+00:04:23,012 --> 00:04:25,890
+<c.vietnamese>Nhẫn cậu định tặng… Cậu định cầu hôn à?</c.vietnamese>
+
+62
+00:04:27,642 --> 00:04:31,479
+<c.vietnamese>Không. Tớ đâu mua để cầu hôn.</c.vietnamese>
+
+63
+00:04:32,146 --> 00:04:36,567
+<c.vietnamese>Nhưng nếu cô ấy nghĩ vậy cũng được
+vì tớ muốn cưới mà.</c.vietnamese>
+
+64
+00:04:36,651 --> 00:04:40,613
+<c.vietnamese>Trời ạ, nhìn cậu kìa.
+Cậu sẽ cản trở sự nghiệp của cô ấy.</c.vietnamese>
+
+65
+00:04:40,697 --> 00:04:42,031
+<c.vietnamese>- Sao lại thế?
+- Này.</c.vietnamese>
+
+66
+00:04:42,115 --> 00:04:44,701
+<c.vietnamese>Giờ cô ấy làm phó giáo sư
+hẳn là bận rộn lắm</c.vietnamese>
+
+67
+00:04:44,784 --> 00:04:46,828
+<c.vietnamese>nên phải để cô ấy tập trung.</c.vietnamese>
+
+68
+00:04:46,911 --> 00:04:49,038
+<c.vietnamese>Cậu không nghĩ nếu cậu đột ngột tặng nhẫn</c.vietnamese>
+
+69
+00:04:49,122 --> 00:04:50,581
+<c.vietnamese>thì cô ấy sẽ rất khó xử à?</c.vietnamese>
+
+70
+00:04:52,125 --> 00:04:55,044
+<c.vietnamese>Hôm nay cậu khác quá.
+Sao bỗng nhiên nói có lý vậy?</c.vietnamese>
+
+71
+00:04:55,128 --> 00:04:57,505
+<c.vietnamese>Tớ nói từ kinh nghiệm thôi.</c.vietnamese>
+
+72
+00:04:58,006 --> 00:05:00,967
+<c.vietnamese>Và tớ nghĩ cậu đang hơi vội vàng.</c.vietnamese>
+
+73
+00:05:01,551 --> 00:05:03,469
+<c.vietnamese>Hẹn hò chưa được một năm mà.</c.vietnamese>
+
+74
+00:05:03,553 --> 00:05:06,014
+<c.vietnamese>Hẹn hò ai đó, ít nhất phải một năm.</c.vietnamese>
+
+75
+00:05:06,097 --> 00:05:10,143
+<c.vietnamese>Mỗi mùa khác nhau
+người ta sẽ lộ ra mặt xấu.</c.vietnamese>
+
+76
+00:05:11,269 --> 00:05:14,022
+<c.vietnamese>Chờ chút. Cậu đang nói cô ấy xấu tính?</c.vietnamese>
+
+77
+00:05:14,105 --> 00:05:15,732
+<c.vietnamese>Không, tớ nói về cậu đấy.</c.vietnamese>
+
+78
+00:05:16,482 --> 00:05:20,194
+<c.vietnamese>Theo quan điểm của Ha Neul,
+có khi cô ấy còn nghi ngờ cậu.</c.vietnamese>
+
+79
+00:05:20,278 --> 00:05:22,780
+<c.vietnamese>Dù gì, giờ quá sớm để tặng nhẫn,</c.vietnamese>
+
+80
+00:05:22,864 --> 00:05:25,825
+<c.vietnamese>xét từ thời gian yêu nhau
+và chức vụ mới của cô ấy.</c.vietnamese>
+
+81
+00:05:27,660 --> 00:05:30,163
+<c.vietnamese>Cậu nói đúng, mà sao tớ thấy bực mình nhỉ?</c.vietnamese>
+
+82
+00:05:30,246 --> 00:05:31,414
+<c.vietnamese>Cái này nè.</c.vietnamese>
+
+83
+00:05:31,914 --> 00:05:32,999
+<c.vietnamese>Vòng tay là hợp lý.</c.vietnamese>
+
+84
+00:05:33,583 --> 00:05:35,084
+<c.vietnamese>Bỏ đi.</c.vietnamese>
+
+85
+00:05:35,168 --> 00:05:36,252
+<c.vietnamese>Để tớ tự lo.</c.vietnamese>
+
+86
+00:05:36,336 --> 00:05:37,795
+<c.vietnamese>Đừng lố bịch thế.</c.vietnamese>
+
+87
+00:05:44,385 --> 00:05:46,763
+<c.vietnamese>Chào anh. Có vấn đề gì à?</c.vietnamese>
+
+88
+00:05:47,847 --> 00:05:49,599
+<c.vietnamese>Không có gì.</c.vietnamese>
+
+89
+00:05:51,726 --> 00:05:54,645
+<c.vietnamese>Cho tôi xem vài vòng tay đi?</c.vietnamese>
+
+90
+00:06:00,651 --> 00:06:02,612
+<c.vietnamese>Mua cái này có hợp lý không?</c.vietnamese>
+
+91
+00:06:03,321 --> 00:06:05,656
+<c.vietnamese>MÌ MILMYEON CHÍNH GỐC BUSAN</c.vietnamese>
+
+92
+00:06:05,740 --> 00:06:07,241
+<c.vietnamese>Anh vừa đi làm về à?</c.vietnamese>
+
+93
+00:06:07,825 --> 00:06:10,119
+<c.vietnamese>Ba Da, dạo này em chăm chỉ thật.</c.vietnamese>
+
+94
+00:06:10,745 --> 00:06:12,914
+<c.vietnamese>Em dần thấy mất động lực rồi.</c.vietnamese>
+
+95
+00:06:12,997 --> 00:06:15,291
+<c.vietnamese>- Nhưng em vẫn đang gắng.
+- Thật à?</c.vietnamese>
+
+96
+00:06:15,374 --> 00:06:19,629
+<c.vietnamese>Anh có nghĩ nên đãi em <i>tteokbokki</i>
+để em vui lên không?</c.vietnamese>
+
+97
+00:06:19,712 --> 00:06:22,632
+<c.vietnamese>Dĩ nhiên là được. Ăn loại cay nhất nhé?</c.vietnamese>
+
+98
+00:06:22,715 --> 00:06:24,675
+<c.vietnamese>- Em thích lắm.
+- Thật hả?</c.vietnamese>
+
+99
+00:06:24,759 --> 00:06:25,593
+<c.vietnamese>Tốt rồi.</c.vietnamese>
+
+100
+00:06:27,345 --> 00:06:28,513
+<c.vietnamese>Ngon quá.</c.vietnamese>
+
+101
+00:06:28,596 --> 00:06:32,183
+<c.vietnamese>Giao hàng chỉ mất 20 phút.
+Thế giới hiện giờ tuyệt thật đấy.</c.vietnamese>
+
+102
+00:06:32,642 --> 00:06:33,559
+<c.vietnamese>Chuẩn luôn.</c.vietnamese>
+
+103
+00:06:33,643 --> 00:06:35,478
+<c.vietnamese>Sao cậu không làm như họ?</c.vietnamese>
+
+104
+00:06:35,561 --> 00:06:38,106
+<c.vietnamese>Ta cũng nhận giao đồ ăn đi.
+Quán nào chẳng vậy.</c.vietnamese>
+
+105
+00:06:38,189 --> 00:06:39,774
+<c.vietnamese>Tuyệt đối không được.</c.vietnamese>
+
+106
+00:06:39,857 --> 00:06:43,194
+<c.vietnamese>Nước dùng sẽ nguội,
+mì sẽ bị bở trên đường giao hàng.</c.vietnamese>
+
+107
+00:06:43,694 --> 00:06:46,114
+<c.vietnamese>Chất lượng hơn số lượng, cháu ngốc.</c.vietnamese>
+
+108
+00:06:46,197 --> 00:06:49,784
+<c.vietnamese>Cậu và niềm tự hào mì <i>milmyeon</i>.
+Cậu sáng tạo ra nó à?</c.vietnamese>
+
+109
+00:06:49,867 --> 00:06:52,453
+<c.vietnamese>Mà sao Ha Neul không ăn cùng ta nhỉ?</c.vietnamese>
+
+110
+00:06:52,537 --> 00:06:53,996
+<c.vietnamese>Cậu ấy còn làm việc ạ.</c.vietnamese>
+
+111
+00:06:54,080 --> 00:06:54,997
+<c.vietnamese>Ra vậy.</c.vietnamese>
+
+112
+00:06:55,081 --> 00:06:57,917
+<c.vietnamese>Trời ạ, giờ khó gặp nó quá
+vì nó làm giáo sư rồi mà.</c.vietnamese>
+
+113
+00:06:58,000 --> 00:07:00,253
+<c.vietnamese>Đối xử tốt với nó nhé.</c.vietnamese>
+
+114
+00:07:00,336 --> 00:07:03,172
+<c.vietnamese>Đừng chọc nó kiểu đem gián làm quà.</c.vietnamese>
+
+115
+00:07:05,216 --> 00:07:07,593
+<c.vietnamese>- Sao chú biết?
+- Không sao.</c.vietnamese>
+
+116
+00:07:07,677 --> 00:07:10,388
+<c.vietnamese>Yêu nhau thì hay chọc nhau vậy mà.</c.vietnamese>
+
+117
+00:07:10,471 --> 00:07:11,722
+<c.vietnamese>Anh đâu có chọc!</c.vietnamese>
+
+118
+00:07:14,308 --> 00:07:15,268
+<c.vietnamese>Thật tình,</c.vietnamese>
+
+119
+00:07:16,102 --> 00:07:18,521
+<c.vietnamese>cháu đã muốn tặng nhẫn cho cậu ấy.</c.vietnamese>
+
+120
+00:07:18,604 --> 00:07:22,233
+<c.vietnamese>Nhưng cháu làm rơi,
+nó lăn xuống dưới sofa.</c.vietnamese>
+
+121
+00:07:22,316 --> 00:07:24,861
+<c.vietnamese>Cháu cố moi nó ra
+thì không may lại như vậy.</c.vietnamese>
+
+122
+00:07:24,944 --> 00:07:26,195
+<c.vietnamese>Ra vậy.</c.vietnamese>
+
+123
+00:07:26,279 --> 00:07:29,699
+<c.vietnamese>Bọn chú không kể cho nó đâu,
+nên cháu nhớ lau nhẫn cho sạch đấy.</c.vietnamese>
+
+124
+00:07:29,782 --> 00:07:31,909
+<c.vietnamese>Cậu Tae Seon, vậy không ổn.</c.vietnamese>
+
+125
+00:07:31,993 --> 00:07:34,036
+<c.vietnamese>Chị xứng đáng hơn thế.</c.vietnamese>
+
+126
+00:07:34,120 --> 00:07:35,204
+<c.vietnamese>Cậu không hiểu chị à?</c.vietnamese>
+
+127
+00:07:35,955 --> 00:07:38,207
+<c.vietnamese>Phải, giờ là giáo sư mà.
+Làm vậy không được.</c.vietnamese>
+
+128
+00:07:38,291 --> 00:07:41,043
+<c.vietnamese>Không. Kệ công việc đi.
+Chị ấy cả đời đâu có ai yêu.</c.vietnamese>
+
+129
+00:07:41,752 --> 00:07:44,380
+<c.vietnamese>Chưa hề có anh nào tặng nữ trang cho chị.</c.vietnamese>
+
+130
+00:07:44,464 --> 00:07:47,049
+<c.vietnamese>Đó sẽ là chiếc nhẫn đầu tiên và cuối cùng.</c.vietnamese>
+
+131
+00:07:47,133 --> 00:07:51,095
+<c.vietnamese>Tặng chị chiếc nhẫn dính bụi và gián
+thì chẳng phải bậy quá à?</c.vietnamese>
+
+132
+00:07:51,971 --> 00:07:54,182
+<c.vietnamese>- Anh nghĩ sao?
+- Anh đồng ý.</c.vietnamese>
+
+133
+00:07:55,183 --> 00:07:57,393
+<c.vietnamese>Nên anh đã mua cái mới. Vòng tay.</c.vietnamese>
+
+134
+00:07:59,187 --> 00:08:02,482
+<c.vietnamese>- Chị em không thích vòng tay.
+- Gì?</c.vietnamese>
+
+135
+00:08:03,065 --> 00:08:07,361
+<c.vietnamese>Hồi chị mới làm bác sĩ,
+mẹ đã tặng vòng tay vàng cho chị.</c.vietnamese>
+
+136
+00:08:07,445 --> 00:08:09,197
+<c.vietnamese>Chị nghĩ nó phiền, nên chẳng đeo.</c.vietnamese>
+
+137
+00:08:09,280 --> 00:08:12,033
+<c.vietnamese>Chị bảo mỗi lần vào phòng mổ
+là phải tháo ra.</c.vietnamese>
+
+138
+00:08:12,116 --> 00:08:15,870
+<c.vietnamese>Rồi cháu lén đem đi bán
+và bị mẹ mắng một trận.</c.vietnamese>
+
+139
+00:08:16,454 --> 00:08:20,583
+<c.vietnamese>Mẹ đánh cháu nhừ tử luôn ấy. Còn sẹo này.</c.vietnamese>
+
+140
+00:08:20,666 --> 00:08:22,335
+<c.vietnamese>Giờ cháu có việc phải đi.</c.vietnamese>
+
+141
+00:08:22,418 --> 00:08:23,753
+<c.vietnamese>Cảm ơn về bữa ăn ạ.</c.vietnamese>
+
+142
+00:08:24,378 --> 00:08:25,379
+<c.vietnamese>Gì?</c.vietnamese>
+
+143
+00:08:30,176 --> 00:08:31,594
+<c.vietnamese>Xin lỗi cô.</c.vietnamese>
+
+144
+00:08:31,677 --> 00:08:34,055
+<c.vietnamese>Anh quay lại nữa rồi. Có chuyện gì sao?</c.vietnamese>
+
+145
+00:08:36,724 --> 00:08:38,684
+<c.vietnamese>Dây chuyền. Cho xem dây chuyền đi.</c.vietnamese>
+
+146
+00:09:00,623 --> 00:09:02,458
+<c.vietnamese>Tặng quà cho cậu khó quá.</c.vietnamese>
+
+147
+00:09:04,418 --> 00:09:05,336
+<c.vietnamese>Mày thì,</c.vietnamese>
+
+148
+00:09:06,003 --> 00:09:07,380
+<c.vietnamese>có khi cậu ấy chê mày.</c.vietnamese>
+
+149
+00:09:09,840 --> 00:09:10,841
+<c.vietnamese>Còn mày…</c.vietnamese>
+
+150
+00:09:11,551 --> 00:09:13,219
+<c.vietnamese>tao hy vọng cậu ấy sẽ thích.</c.vietnamese>
+
+151
+00:09:13,844 --> 00:09:18,099
+<c.vietnamese>Chính xác nên tặng cậu ấy
+khi nào và thế nào nhỉ?</c.vietnamese>
+
+152
+00:09:18,808 --> 00:09:22,061
+<c.vietnamese>Chỗ nào không có sofa hoặc gián.</c.vietnamese>
+
+153
+00:09:22,144 --> 00:09:24,647
+<c.vietnamese>Ở nhà không được, ở chỗ làm còn kỳ hơn.</c.vietnamese>
+
+154
+00:09:24,730 --> 00:09:26,399
+<c.vietnamese>Mình phải đi khám mất thôi.</c.vietnamese>
+
+155
+00:09:26,482 --> 00:09:28,401
+<c.vietnamese>Chắc mình phát điên mất rồi.</c.vietnamese>
+
+156
+00:09:28,484 --> 00:09:30,611
+<c.vietnamese>- Vậy…
+<i>- Anh Jeong Woo trúng mánh rồi!</i></c.vietnamese>
+
+157
+00:09:31,487 --> 00:09:34,407
+<c.vietnamese>Mới sáng mà ồn ào quá. Trúng mánh à?</c.vietnamese>
+
+158
+00:09:34,490 --> 00:09:35,992
+<c.vietnamese>Mẹ xem này.</c.vietnamese>
+
+159
+00:09:36,075 --> 00:09:38,452
+<c.vietnamese>Giờ anh Jeong Woo giàu sụ rồi.</c.vietnamese>
+
+160
+00:09:38,536 --> 00:09:41,080
+<c.vietnamese>- Họ nói anh ấy vừa nhận 2,5 tỷ won.
+- Gì?</c.vietnamese>
+
+161
+00:09:41,622 --> 00:09:43,583
+<c.vietnamese>Mẹ xem này. Có cả bài báo mà.</c.vietnamese>
+
+162
+00:09:43,666 --> 00:09:46,460
+<c.vietnamese>Là nạn nhân lớn nhất của
+án mạng nữ thừa kế sòng bạc Macau,</c.vietnamese>
+
+163
+00:09:46,544 --> 00:09:50,506
+<c.vietnamese>Yeo nhận lại tiền phạt anh đã trả cho chủ
+nhân của các chi nhánh thẩm mỹ của mình.</c.vietnamese>
+
+164
+00:09:52,758 --> 00:09:54,802
+<c.vietnamese>Chị biết vụ này chưa?</c.vietnamese>
+
+165
+00:09:54,885 --> 00:09:57,638
+<c.vietnamese>Biết rồi. Tin đăng khi nào vậy?</c.vietnamese>
+
+166
+00:09:57,722 --> 00:09:59,473
+<c.vietnamese>Mấy tiếng trước.</c.vietnamese>
+
+167
+00:10:01,350 --> 00:10:02,852
+<c.vietnamese>Khoan. Chờ đã.</c.vietnamese>
+
+168
+00:10:03,978 --> 00:10:06,939
+<c.vietnamese>Anh ấy giàu vậy
+mà hôm qua chỉ đãi em <i>tteokbokki</i>?</c.vietnamese>
+
+169
+00:10:07,023 --> 00:10:09,442
+<c.vietnamese>Còn chẳng gọi thêm bánh hay dồi.</c.vietnamese>
+
+170
+00:10:09,525 --> 00:10:12,570
+<c.vietnamese>Hôm qua nó lại đãi con nữa à?</c.vietnamese>
+
+171
+00:10:13,404 --> 00:10:15,656
+<c.vietnamese>Trời ạ, đừng quấy nó chứ.</c.vietnamese>
+
+172
+00:10:15,740 --> 00:10:16,866
+<c.vietnamese>Con có quấy đâu.</c.vietnamese>
+
+173
+00:10:16,949 --> 00:10:20,578
+<c.vietnamese>Anh ấy thích ngồi chơi với bọn con.
+Anh ấy đâu nhiều bạn.</c.vietnamese>
+
+174
+00:10:20,661 --> 00:10:22,330
+<c.vietnamese>Dĩ nhiên là nhiều chứ.</c.vietnamese>
+
+175
+00:10:22,413 --> 00:10:24,040
+<c.vietnamese>Anh ấy nói vậy mà.</c.vietnamese>
+
+176
+00:10:24,123 --> 00:10:27,043
+<c.vietnamese>Anh ấy bảo là mất hết bạn bè
+sau vụ sơ suất y tế đó.</c.vietnamese>
+
+177
+00:10:27,126 --> 00:10:30,087
+<c.vietnamese>Gần đây còn mất người bạn thời thơ ấu…</c.vietnamese>
+
+178
+00:10:34,717 --> 00:10:35,551
+<c.vietnamese>Con đi đây.</c.vietnamese>
+
+179
+00:10:35,635 --> 00:10:38,012
+<c.vietnamese>Chờ chút. Ăn cái này đã.</c.vietnamese>
+
+180
+00:10:40,181 --> 00:10:41,557
+<c.vietnamese>Ha Neul!</c.vietnamese>
+
+181
+00:10:46,062 --> 00:10:49,148
+<c.vietnamese>Qua đây để mẹ xé xác con!</c.vietnamese>
+
+182
+00:10:49,231 --> 00:10:51,025
+<c.vietnamese>Mẹ cũng nên thương con chứ!</c.vietnamese>
+
+183
+00:10:51,108 --> 00:10:53,861
+<c.vietnamese>Con nói năng ẩu tả,
+nhưng cũng đáng giá mà!</c.vietnamese>
+
+184
+00:10:53,944 --> 00:10:55,029
+<c.vietnamese>Cái thằng này!</c.vietnamese>
+
+185
+00:10:55,112 --> 00:10:58,532
+<c.vietnamese>Còn chẳng để chị con
+ăn chút cà chua bữa sáng!</c.vietnamese>
+
+186
+00:11:03,871 --> 00:11:05,790
+<c.vietnamese>- Jeong Woo, dậy chưa?
+<i>- Rồi.</i></c.vietnamese>
+
+187
+00:11:06,290 --> 00:11:09,502
+<c.vietnamese><i>Tớ đã định gọi vì nhớ cậu quá.</i></c.vietnamese>
+
+188
+00:11:09,585 --> 00:11:12,088
+<c.vietnamese>Thật hả? Vậy đếm đến ba thì gặp nhé.</c.vietnamese>
+
+189
+00:11:12,171 --> 00:11:13,089
+<c.vietnamese><i>Tại sao?</i></c.vietnamese>
+
+190
+00:11:13,172 --> 00:11:15,383
+<c.vietnamese><i>Ba giây là cậu xuất hiện à?</i></c.vietnamese>
+
+191
+00:11:17,009 --> 00:11:20,388
+<c.vietnamese>Có lẽ vậy, sốt sắng đếm đến ba đi.</c.vietnamese>
+
+192
+00:11:21,555 --> 00:11:24,141
+<c.vietnamese><i>Được. Tớ sẽ sốt sắng lắm luôn.</i></c.vietnamese>
+
+193
+00:11:25,476 --> 00:11:26,560
+<c.vietnamese><i>Một.</i></c.vietnamese>
+
+194
+00:11:27,770 --> 00:11:28,979
+<c.vietnamese><i>Hai.</i></c.vietnamese>
+
+195
+00:11:30,231 --> 00:11:31,315
+<c.vietnamese>- Ba!
+- Trời ạ!</c.vietnamese>
+
+196
+00:11:32,858 --> 00:11:34,402
+<c.vietnamese>Gì? Cứ tưởng cậu ở nhà.</c.vietnamese>
+
+197
+00:11:34,485 --> 00:11:38,989
+<c.vietnamese>Tớ không ngủ được nên đi chạy.
+Rồi tớ lén theo cậu lên đây đấy.</c.vietnamese>
+
+198
+00:11:39,073 --> 00:11:40,324
+<c.vietnamese>Thế à?</c.vietnamese>
+
+199
+00:11:40,825 --> 00:11:43,285
+<c.vietnamese>Tớ rảnh được 15 phút. Uống cà phê nhé?</c.vietnamese>
+
+200
+00:11:43,869 --> 00:11:45,162
+<c.vietnamese>Thích quá đi.</c.vietnamese>
+
+201
+00:11:45,788 --> 00:11:47,248
+<c.vietnamese>Mời vào.</c.vietnamese>
+
+202
+00:11:47,331 --> 00:11:48,332
+<c.vietnamese>Được rồi.</c.vietnamese>
+
+203
+00:11:49,291 --> 00:11:51,252
+<c.vietnamese>Cà phê đá của cậu đây.</c.vietnamese>
+
+204
+00:11:51,836 --> 00:11:52,837
+<c.vietnamese>Cảm ơn cậu.</c.vietnamese>
+
+205
+00:11:56,966 --> 00:11:58,050
+<c.vietnamese>Ngon quá.</c.vietnamese>
+
+206
+00:11:59,468 --> 00:12:02,888
+<c.vietnamese>Tớ xin lỗi
+vì bận rộn quá mà thất hứa với cậu.</c.vietnamese>
+
+207
+00:12:02,972 --> 00:12:06,892
+<c.vietnamese>Đừng xin lỗi mà.
+Cậu cần làm gì thì cứ làm.</c.vietnamese>
+
+208
+00:12:07,935 --> 00:12:09,854
+<c.vietnamese>Tớ đâu muốn cản trở sự nghiệp của cậu.</c.vietnamese>
+
+209
+00:12:15,025 --> 00:12:16,026
+<c.vietnamese>Chờ chút nhé.</c.vietnamese>
+
+210
+00:12:18,863 --> 00:12:21,073
+<c.vietnamese><i>Jeong Woo, em quý anh lắm.</i></c.vietnamese>
+
+211
+00:12:22,324 --> 00:12:24,785
+<c.vietnamese>- Gì đây?
+- Gì vậy?</c.vietnamese>
+
+212
+00:12:25,453 --> 00:12:28,539
+<c.vietnamese>Ba Da nhắn anh. Nó bị gì vậy?</c.vietnamese>
+
+213
+00:12:30,291 --> 00:12:31,292
+<c.vietnamese>Thằng ngốc đó.</c.vietnamese>
+
+214
+00:12:34,086 --> 00:12:34,962
+<c.vietnamese>Nghe cho kỹ nhé.</c.vietnamese>
+
+215
+00:12:35,504 --> 00:12:39,675
+<c.vietnamese>Nhớ cảnh giác
+và cấm cậu cho Ba Da tiền tiêu vặt.</c.vietnamese>
+
+216
+00:12:41,093 --> 00:12:42,595
+<c.vietnamese>Nó biết cậu có nhiều tiền rồi.</c.vietnamese>
+
+217
+00:12:43,721 --> 00:12:44,680
+<c.vietnamese>Ý cậu là sao?</c.vietnamese>
+
+218
+00:12:46,056 --> 00:12:49,643
+<c.vietnamese>Nó biết vụ hoàn tiền rồi.
+Không phải do tớ nói đâu.</c.vietnamese>
+
+219
+00:12:51,145 --> 00:12:52,188
+<c.vietnamese>Tớ biết mà.</c.vietnamese>
+
+220
+00:12:52,897 --> 00:12:54,023
+<c.vietnamese>Tớ cũng thấy bài báo.</c.vietnamese>
+
+221
+00:12:54,607 --> 00:12:56,192
+<c.vietnamese>Trời ạ.</c.vietnamese>
+
+222
+00:12:56,275 --> 00:12:58,527
+<c.vietnamese>Họ chẳng để cậu yên.</c.vietnamese>
+
+223
+00:12:58,611 --> 00:13:01,322
+<c.vietnamese>Sao họ không lo việc của mình đi?</c.vietnamese>
+
+224
+00:13:02,448 --> 00:13:04,700
+<c.vietnamese>Cậu chịu khổ đủ rồi. Họ bị sao vậy chứ?</c.vietnamese>
+
+225
+00:13:05,743 --> 00:13:07,036
+<c.vietnamese>- Nhưng mà tớ…
+- "Ổn" hả?</c.vietnamese>
+
+226
+00:13:07,119 --> 00:13:09,121
+<c.vietnamese>Cậu định nói thế chứ gì?</c.vietnamese>
+
+227
+00:13:09,205 --> 00:13:11,790
+<c.vietnamese>Không, tớ không ổn với bài báo đó.</c.vietnamese>
+
+228
+00:13:13,918 --> 00:13:16,337
+<c.vietnamese>Nhưng tớ ổn vì có cậu ở bên.</c.vietnamese>
+
+229
+00:13:19,089 --> 00:13:20,841
+<c.vietnamese>Tất nhiên là tớ khó chịu.</c.vietnamese>
+
+230
+00:13:20,925 --> 00:13:22,676
+<c.vietnamese>Khi vụ sơ suất y tế mới xảy ra,</c.vietnamese>
+
+231
+00:13:23,385 --> 00:13:28,849
+<c.vietnamese>tớ đau lòng khi đọc bình luận
+bởi những người nghi ngờ tớ giết người.</c.vietnamese>
+
+232
+00:13:29,433 --> 00:13:33,521
+<c.vietnamese>Tớ còn đau lòng hơn
+khi người quen của tớ tin vậy.</c.vietnamese>
+
+233
+00:13:35,773 --> 00:13:36,815
+<c.vietnamese>Tớ ghét</c.vietnamese>
+
+234
+00:13:37,483 --> 00:13:41,695
+<c.vietnamese>những người bất chấp ý tớ
+mà phơi bày nỗi đau của tớ.</c.vietnamese>
+
+235
+00:13:44,323 --> 00:13:46,408
+<c.vietnamese>Nhưng không sao cả, vì có cậu rồi.</c.vietnamese>
+
+236
+00:13:46,992 --> 00:13:49,119
+<c.vietnamese>Nên đừng lo cho tớ</c.vietnamese>
+
+237
+00:13:49,203 --> 00:13:52,122
+<c.vietnamese>và cứ tập trung
+vào ca mổ tuần tới đi. Nhé?</c.vietnamese>
+
+238
+00:13:54,250 --> 00:13:55,292
+<c.vietnamese>Được.</c.vietnamese>
+
+239
+00:13:56,710 --> 00:13:59,463
+<c.vietnamese>Phải rồi, cậu có muốn xem
+các ca tớ tổng hợp không?</c.vietnamese>
+
+240
+00:13:59,547 --> 00:14:00,923
+<c.vietnamese>Trong hộc tủ có cái USB.</c.vietnamese>
+
+241
+00:14:01,674 --> 00:14:03,551
+<c.vietnamese>Hộc à? Hộc này hả?</c.vietnamese>
+
+242
+00:14:04,718 --> 00:14:06,095
+<c.vietnamese>Không!</c.vietnamese>
+
+243
+00:14:16,021 --> 00:14:18,691
+<c.vietnamese>Gì đây? Sao cậu không cho tớ mở hộc đó?</c.vietnamese>
+
+244
+00:14:19,233 --> 00:14:21,360
+<c.vietnamese>Lần này thì có bọ hay gì?</c.vietnamese>
+
+245
+00:14:21,944 --> 00:14:23,612
+<c.vietnamese>Cái đó không quan trọng nữa.</c.vietnamese>
+
+246
+00:14:28,993 --> 00:14:30,035
+<c.vietnamese>Thật ra…</c.vietnamese>
+
+247
+00:14:33,163 --> 00:14:34,915
+<c.vietnamese>tớ có cái này tặng cậu.</c.vietnamese>
+
+248
+00:14:38,544 --> 00:14:39,545
+<c.vietnamese>Anh Jeong Woo!</c.vietnamese>
+
+249
+00:14:42,923 --> 00:14:43,757
+<c.vietnamese>Chào em.</c.vietnamese>
+
+250
+00:14:46,093 --> 00:14:47,511
+<c.vietnamese>Dạo này anh mỏi quá.</c.vietnamese>
+
+251
+00:14:48,804 --> 00:14:51,265
+<c.vietnamese>Sao chị lại ở đây? Không đi làm à?</c.vietnamese>
+
+252
+00:14:51,348 --> 00:14:52,766
+<c.vietnamese>Chị ghé uống chút trà.</c.vietnamese>
+
+253
+00:14:54,059 --> 00:14:55,227
+<c.vietnamese>Sao phải giải thích chứ?</c.vietnamese>
+
+254
+00:14:56,186 --> 00:14:58,188
+<c.vietnamese>- Còn em lên đây làm gì?
+- Phải rồi.</c.vietnamese>
+
+255
+00:14:58,272 --> 00:15:01,483
+<c.vietnamese>Em đưa đồ ăn sáng cho anh.</c.vietnamese>
+
+256
+00:15:01,567 --> 00:15:03,360
+<c.vietnamese>- Gì?
+- Xem nào.</c.vietnamese>
+
+257
+00:15:05,446 --> 00:15:08,324
+<c.vietnamese>Có cá cơm và ớt chuông khô xào,
+món anh thích.</c.vietnamese>
+
+258
+00:15:08,407 --> 00:15:10,159
+<c.vietnamese>- Rồi.
+- Đậu đen nấu nước tương.</c.vietnamese>
+
+259
+00:15:10,784 --> 00:15:12,745
+<c.vietnamese>- Kim chi hành lá…
+- Nhiều quá.</c.vietnamese>
+
+260
+00:15:12,828 --> 00:15:14,747
+<c.vietnamese>Mực ướp và ba chỉ lợn.</c.vietnamese>
+
+261
+00:15:15,706 --> 00:15:18,709
+<c.vietnamese>Này, em xin phép mẹ chưa mà mang lên?</c.vietnamese>
+
+262
+00:15:18,792 --> 00:15:20,878
+<c.vietnamese>Em đâu có mua nên làm gì có quyền.</c.vietnamese>
+
+263
+00:15:20,961 --> 00:15:23,547
+<c.vietnamese>Thôi nào, người một nhà mà.
+Cái đó đâu áp dụng.</c.vietnamese>
+
+264
+00:15:23,631 --> 00:15:25,841
+<c.vietnamese>Tiền của em là của chị,
+tiền của chị là của em.</c.vietnamese>
+
+265
+00:15:25,925 --> 00:15:28,385
+<c.vietnamese>Tiền của em là của anh ấy,
+của anh ấy là của em.</c.vietnamese>
+
+266
+00:15:30,679 --> 00:15:31,722
+<c.vietnamese>Nhỉ?</c.vietnamese>
+
+267
+00:15:32,848 --> 00:15:34,725
+<c.vietnamese>Nên anh cho em mượn 50.000 won…</c.vietnamese>
+
+268
+00:15:34,808 --> 00:15:37,061
+<c.vietnamese>- Trời ạ!
+- Biết ngay mà.</c.vietnamese>
+
+269
+00:15:37,686 --> 00:15:39,063
+<c.vietnamese>- Ra đây.
+- Ha Neul.</c.vietnamese>
+
+270
+00:15:39,146 --> 00:15:40,940
+<c.vietnamese>Cậu học chiêu kẹp cổ khi nào vậy?</c.vietnamese>
+
+271
+00:15:41,023 --> 00:15:43,442
+<c.vietnamese>Được thì anh gửi qua Ngân hàng Duna.</c.vietnamese>
+
+272
+00:15:43,525 --> 00:15:45,736
+<c.vietnamese>- Số tài khoản 352-20020408.
+- Ha Neul.</c.vietnamese>
+
+273
+00:15:45,819 --> 00:15:47,237
+<c.vietnamese>Chuyển khoản cho em.</c.vietnamese>
+
+274
+00:15:47,321 --> 00:15:48,656
+<c.vietnamese>Gửi 30.000 cũng được.</c.vietnamese>
+
+275
+00:15:48,739 --> 00:15:51,241
+<c.vietnamese>- Im đi, không chị đánh cho 30.000 cú.
+- Ha Neul.</c.vietnamese>
+
+276
+00:15:52,242 --> 00:15:54,244
+<c.vietnamese>Được rồi. Mong em toàn mạng.</c.vietnamese>
+
+277
+00:15:58,832 --> 00:16:00,834
+<c.vietnamese>Gì? Vẫn chưa tặng cô ấy à?</c.vietnamese>
+
+278
+00:16:01,251 --> 00:16:03,796
+<c.vietnamese>Này, cậu có nhẫn, vòng tay, dây chuyền.</c.vietnamese>
+
+279
+00:16:03,879 --> 00:16:06,799
+<c.vietnamese>Có nguyên cái cửa hàng trang sức rồi,
+còn chờ gì nữa?</c.vietnamese>
+
+280
+00:16:06,882 --> 00:16:08,384
+<c.vietnamese>Chẳng biết nữa.</c.vietnamese>
+
+281
+00:16:08,467 --> 00:16:10,761
+<c.vietnamese>Không phải cầu hôn
+thì cũng nên có ý nghĩa,</c.vietnamese>
+
+282
+00:16:10,844 --> 00:16:12,262
+<c.vietnamese>mà chẳng chọn được thời điểm.</c.vietnamese>
+
+283
+00:16:13,847 --> 00:16:16,392
+<c.vietnamese>Tớ định tập trung xử lý ca mổ tuần sau</c.vietnamese>
+
+284
+00:16:16,475 --> 00:16:18,060
+<c.vietnamese>rồi mới nghĩ tiếp chuyện đó.</c.vietnamese>
+
+285
+00:16:18,143 --> 00:16:21,355
+<c.vietnamese>Phải. Cậu có ca mổ tuần sau mà.</c.vietnamese>
+
+286
+00:16:21,438 --> 00:16:22,272
+<c.vietnamese>Phải.</c.vietnamese>
+
+287
+00:16:22,815 --> 00:16:26,318
+<c.vietnamese>Tớ sẽ phải nghỉ hai ngày. Tớ xin lỗi nhé.</c.vietnamese>
+
+288
+00:16:26,402 --> 00:16:29,488
+<c.vietnamese>Xin lỗi gì chứ.
+Cậu có lý do chính đáng mà.</c.vietnamese>
+
+289
+00:16:31,907 --> 00:16:33,909
+<c.vietnamese>Nhưng cậu có quay về không?</c.vietnamese>
+
+290
+00:16:35,536 --> 00:16:37,705
+<c.vietnamese>Tớ chẳng muốn cậu lừa tớ đâu.</c.vietnamese>
+
+291
+00:16:38,372 --> 00:16:39,623
+<c.vietnamese>Thế là tệ nhất.</c.vietnamese>
+
+292
+00:16:42,001 --> 00:16:44,586
+<c.vietnamese>- Tớ không chắc nữa.
+- Cái thằng…</c.vietnamese>
+
+293
+00:16:57,683 --> 00:16:59,101
+<c.vietnamese>- Xin chào.
+- Chào.</c.vietnamese>
+
+294
+00:17:03,063 --> 00:17:04,940
+<c.vietnamese>- Khoan, không đi làm à?
+- Không, tớ…</c.vietnamese>
+
+295
+00:17:05,024 --> 00:17:06,775
+<c.vietnamese>Nhiều lúc cậu kỳ lạ quá.</c.vietnamese>
+
+296
+00:17:21,081 --> 00:17:23,709
+<c.vietnamese>- Có chuyện gì à?
+- Im lặng.</c.vietnamese>
+
+297
+00:17:25,335 --> 00:17:26,587
+<c.vietnamese>Có chuyện gì vậy?</c.vietnamese>
+
+298
+00:17:27,296 --> 00:17:28,714
+<c.vietnamese>- Im đi mà.
+- Kể đi.</c.vietnamese>
+
+299
+00:17:28,797 --> 00:17:30,340
+<c.vietnamese>Tớ sẽ nghe.</c.vietnamese>
+
+300
+00:17:30,424 --> 00:17:32,676
+<c.vietnamese>Có khi tớ giúp được cậu.</c.vietnamese>
+
+301
+00:17:32,760 --> 00:17:33,594
+<c.vietnamese>Bảo biến đi mà!</c.vietnamese>
+
+302
+00:17:35,637 --> 00:17:37,890
+<c.vietnamese>Anh vừa bảo em biến đi hả?</c.vietnamese>
+
+303
+00:17:37,973 --> 00:17:39,183
+<c.vietnamese>Không phải.</c.vietnamese>
+
+304
+00:17:40,017 --> 00:17:41,310
+<c.vietnamese>Vậy là bảo em?</c.vietnamese>
+
+305
+00:17:41,393 --> 00:17:43,437
+<c.vietnamese>Cũng không phải với em.</c.vietnamese>
+
+306
+00:17:45,773 --> 00:17:46,732
+<c.vietnamese>Anh…</c.vietnamese>
+
+307
+00:17:48,025 --> 00:17:49,735
+<c.vietnamese>Khoan, Hong Ran. Anh…</c.vietnamese>
+
+308
+00:17:50,360 --> 00:17:51,820
+<c.vietnamese>Y tá Do! Anh…</c.vietnamese>
+
+309
+00:17:53,655 --> 00:17:56,325
+<c.vietnamese>Vâng. Chúng tôi đánh giá cao bài báo.</c.vietnamese>
+
+310
+00:17:57,367 --> 00:17:58,994
+<c.vietnamese>- Cảm ơn anh.
+- Có chuyện gì vậy?</c.vietnamese>
+
+311
+00:17:59,078 --> 00:18:00,996
+<c.vietnamese>Sao ba người các cậu kỳ quặc vậy?</c.vietnamese>
+
+312
+00:18:01,080 --> 00:18:01,914
+<c.vietnamese>Chào anh.</c.vietnamese>
+
+313
+00:18:02,956 --> 00:18:05,209
+<c.vietnamese>Từ sáng họ đã gọi tới tấp.</c.vietnamese>
+
+314
+00:18:05,292 --> 00:18:06,418
+<c.vietnamese>Loạn cả luôn.</c.vietnamese>
+
+315
+00:18:06,502 --> 00:18:08,170
+<c.vietnamese>Gọi à? Gọi vụ gì?</c.vietnamese>
+
+316
+00:18:08,253 --> 00:18:10,964
+<c.vietnamese>Người ta hỏi có thật là
+bác sĩ Yeo được bồi thường</c.vietnamese>
+
+317
+00:18:11,048 --> 00:18:15,094
+<c.vietnamese>và có phải anh ấy sắp phẫu thuật
+cho bệnh nhân bị dị tật tai nhỏ.</c.vietnamese>
+
+318
+00:18:15,177 --> 00:18:17,805
+<c.vietnamese>Nên em cảm ơn vì bài báo họ sẽ viết.</c.vietnamese>
+
+319
+00:18:20,015 --> 00:18:21,600
+<c.vietnamese><i>Tôi nghĩ việc này không ổn.</i></c.vietnamese>
+
+320
+00:18:22,267 --> 00:18:25,312
+<c.vietnamese>Bác sĩ Yeo chỉ làm việc này vì thiện ý,</c.vietnamese>
+
+321
+00:18:25,395 --> 00:18:26,980
+<c.vietnamese>sao anh dùng nó để PR được?</c.vietnamese>
+
+322
+00:18:27,064 --> 00:18:28,440
+<c.vietnamese>Tôi đâu lợi dụng cậu ấy.</c.vietnamese>
+
+323
+00:18:29,274 --> 00:18:31,777
+<c.vietnamese>Các nhà báo gọi điện tới tấp</c.vietnamese>
+
+324
+00:18:31,860 --> 00:18:35,239
+<c.vietnamese>và việc tốt của cậu ấy
+có thể làm gương cho người khác.</c.vietnamese>
+
+325
+00:18:35,322 --> 00:18:37,574
+<c.vietnamese>Để nhiều người biết chuyện này là tốt mà.</c.vietnamese>
+
+326
+00:18:37,658 --> 00:18:40,119
+<c.vietnamese>Chỉ truyền thông và bệnh viện
+nghĩ vậy thôi.</c.vietnamese>
+
+327
+00:18:40,869 --> 00:18:44,623
+<c.vietnamese>Bác sĩ Yeo và tôi
+không làm ca này để quảng bá.</c.vietnamese>
+
+328
+00:18:44,706 --> 00:18:50,337
+<c.vietnamese>Ngay giờ đội PR của ta đang bàn với cậu ấy
+để xem ý cậu ấy thế nào.</c.vietnamese>
+
+329
+00:18:50,420 --> 00:18:51,255
+<c.vietnamese>Gì cơ?</c.vietnamese>
+
+330
+00:18:52,047 --> 00:18:54,591
+<c.vietnamese>Bác sĩ Yeo đang ở đây sao?</c.vietnamese>
+
+331
+00:18:57,719 --> 00:18:59,596
+<c.vietnamese>- Chúc bác sĩ ngày tốt lành.
+- Chào ạ.</c.vietnamese>
+
+332
+00:19:00,806 --> 00:19:01,890
+<c.vietnamese>Jeong Woo.</c.vietnamese>
+
+333
+00:19:03,433 --> 00:19:04,768
+<c.vietnamese>Cậu đang làm gì ở đây?</c.vietnamese>
+
+334
+00:19:04,852 --> 00:19:08,564
+<c.vietnamese>Chứ cậu nghĩ sao? Để gặp cậu mà.
+Cậu gặp đội PR rồi nhỉ?</c.vietnamese>
+
+335
+00:19:10,232 --> 00:19:12,568
+<c.vietnamese>- Vậy là cậu biết rồi.
+- Cậu bảo họ sao?</c.vietnamese>
+
+336
+00:19:13,402 --> 00:19:15,529
+<c.vietnamese>Tớ bảo để tớ suy nghĩ đã.</c.vietnamese>
+
+337
+00:19:16,196 --> 00:19:17,406
+<c.vietnamese>Nghĩ gì chứ?</c.vietnamese>
+
+338
+00:19:18,157 --> 00:19:21,285
+<c.vietnamese>Cậu lo nếu từ chối thì tớ sẽ bị ảnh hưởng
+vì tớ làm ở đây à?</c.vietnamese>
+
+339
+00:19:22,786 --> 00:19:25,497
+<c.vietnamese>Chuyện này từ đầu đã vớ vẩn rồi.</c.vietnamese>
+
+340
+00:19:25,581 --> 00:19:27,207
+<c.vietnamese>Bởi vì vớ vẩn nhất</c.vietnamese>
+
+341
+00:19:27,791 --> 00:19:30,544
+<c.vietnamese>là tiết lộ thông tin bệnh nhân.</c.vietnamese>
+
+342
+00:19:33,088 --> 00:19:35,048
+<c.vietnamese>Đừng lo. Tớ sẽ xử lý vụ này.</c.vietnamese>
+
+343
+00:19:35,966 --> 00:19:37,009
+<c.vietnamese>Nhưng…</c.vietnamese>
+
+344
+00:19:37,092 --> 00:19:40,262
+<c.vietnamese>Sao họ cứ đẩy cậu vào thế khó vậy?</c.vietnamese>
+
+345
+00:19:40,345 --> 00:19:42,973
+<c.vietnamese>Sao họ không để cậu yên được chứ?</c.vietnamese>
+
+346
+00:19:44,016 --> 00:19:46,810
+<c.vietnamese>Nếu thế, ít ra
+cậu có thể đối xử tốt với tớ.</c.vietnamese>
+
+347
+00:19:48,312 --> 00:19:50,606
+<c.vietnamese>- Tớ làm được gì đây?
+- Đi ăn nào.</c.vietnamese>
+
+348
+00:19:51,648 --> 00:19:53,734
+<c.vietnamese>Khi nào ta ăn tối cùng nhau được nhỉ?</c.vietnamese>
+
+349
+00:19:53,817 --> 00:19:55,819
+<c.vietnamese>Hôm nay tớ không có ca nào.</c.vietnamese>
+
+350
+00:19:55,903 --> 00:19:57,362
+<c.vietnamese>Chờ tớ thay đồ nhé.</c.vietnamese>
+
+351
+00:20:03,577 --> 00:20:05,162
+<c.vietnamese>Sao không nghe máy?</c.vietnamese>
+
+352
+00:20:05,245 --> 00:20:07,039
+<c.vietnamese>Chỉ là nhà báo thôi.</c.vietnamese>
+
+353
+00:20:07,789 --> 00:20:09,583
+<c.vietnamese>Gì? Họ muốn phỏng vấn à?</c.vietnamese>
+
+354
+00:20:10,918 --> 00:20:14,087
+<c.vietnamese>Trời ạ. Cô ơi, cho cháu chai soju.</c.vietnamese>
+
+355
+00:20:14,671 --> 00:20:16,590
+<c.vietnamese>- Có ngay.
+- Sao? Cậu được uống à?</c.vietnamese>
+
+356
+00:20:16,673 --> 00:20:17,925
+<c.vietnamese>Dĩ nhiên.</c.vietnamese>
+
+357
+00:20:18,884 --> 00:20:21,178
+<c.vietnamese>Hôm nay tớ buồn nên thèm rượu.</c.vietnamese>
+
+358
+00:20:23,847 --> 00:20:24,681
+<c.vietnamese>Nhưng mà…</c.vietnamese>
+
+359
+00:20:25,182 --> 00:20:26,141
+<c.vietnamese>Soju đây.</c.vietnamese>
+
+360
+00:20:26,225 --> 00:20:28,227
+<c.vietnamese><i>- Ha Neul, sao rồi?</i>
+- Này.</c.vietnamese>
+
+361
+00:20:28,977 --> 00:20:30,729
+<c.vietnamese>Tớ đang nhậu với Jeong Woo.</c.vietnamese>
+
+362
+00:20:30,812 --> 00:20:32,397
+<c.vietnamese><i>- Cho tớ nhậu với.</i>
+- Cả cậu hả?</c.vietnamese>
+
+363
+00:20:33,398 --> 00:20:35,734
+<c.vietnamese>Không, hôm nay tớ muốn riêng tư.</c.vietnamese>
+
+364
+00:20:35,817 --> 00:20:37,611
+<c.vietnamese><i>Cậu ác quá.</i></c.vietnamese>
+
+365
+00:20:38,278 --> 00:20:40,530
+<c.vietnamese><i>Hôm nay tớ buồn.</i></c.vietnamese>
+
+366
+00:20:40,614 --> 00:20:42,950
+<c.vietnamese>Sao lại buồn? Có chuyện gì à?</c.vietnamese>
+
+367
+00:20:43,951 --> 00:20:45,661
+<c.vietnamese>Tớ không sao. Bảo cô ấy đến đi.</c.vietnamese>
+
+368
+00:20:46,745 --> 00:20:47,579
+<c.vietnamese>Chào.</c.vietnamese>
+
+369
+00:20:50,457 --> 00:20:51,917
+<c.vietnamese>Xin lỗi vì phá đám nhé.</c.vietnamese>
+
+370
+00:20:52,000 --> 00:20:53,085
+<c.vietnamese>Có gì đâu mà.</c.vietnamese>
+
+371
+00:20:54,044 --> 00:20:56,255
+<c.vietnamese>Nhưng hôm nay tớ cần chút rượu.</c.vietnamese>
+
+372
+00:20:56,797 --> 00:20:58,006
+<c.vietnamese>Thật ra là nhiều rượu.</c.vietnamese>
+
+373
+00:20:58,882 --> 00:21:01,885
+<c.vietnamese>Hôm nay tôi cảm giác có gì đó rồi.
+Có chuyện gì vậy?</c.vietnamese>
+
+374
+00:21:01,969 --> 00:21:06,098
+<c.vietnamese>Tôi buồn không phải vì thế,
+nhưng chuyện đó cũng chẳng hay ho gì.</c.vietnamese>
+
+375
+00:21:06,682 --> 00:21:08,392
+<c.vietnamese>- Là chuyện gì đây?
+- Thì…</c.vietnamese>
+
+376
+00:21:10,477 --> 00:21:13,063
+<c.vietnamese>Cậu ấy thân với bác sĩ Bin,
+tớ nói thật được không?</c.vietnamese>
+
+377
+00:21:13,146 --> 00:21:14,106
+<c.vietnamese>Về bác sĩ Bin à?</c.vietnamese>
+
+378
+00:21:15,023 --> 00:21:16,024
+<c.vietnamese>Vậy thì kể đi.</c.vietnamese>
+
+379
+00:21:16,108 --> 00:21:18,735
+<c.vietnamese>Ai biết được?
+Có lẽ cậu ấy gỡ rối được cho cậu.</c.vietnamese>
+
+380
+00:21:19,778 --> 00:21:21,655
+<c.vietnamese>Phải đấy. Cứ thoải mái kể đi.</c.vietnamese>
+
+381
+00:21:22,906 --> 00:21:26,285
+<c.vietnamese>Cậu cũng đã biết,
+tôi với anh ấy có tình cảm.</c.vietnamese>
+
+382
+00:21:27,369 --> 00:21:29,329
+<c.vietnamese>Nhưng ngay khi anh ấy định tỏ tình</c.vietnamese>
+
+383
+00:21:29,871 --> 00:21:32,374
+<c.vietnamese>thì y tá Do và anh ấy hôn trước mặt tôi.</c.vietnamese>
+
+384
+00:21:32,457 --> 00:21:33,875
+<c.vietnamese>- Gì?
+- Gì cơ?</c.vietnamese>
+
+385
+00:21:33,959 --> 00:21:35,877
+<c.vietnamese>Không phải cố ý, tất nhiên.</c.vietnamese>
+
+386
+00:21:35,961 --> 00:21:38,380
+<c.vietnamese>Cô ấy trượt ngã và lao vào anh ấy.</c.vietnamese>
+
+387
+00:21:38,964 --> 00:21:41,717
+<c.vietnamese>Nhưng thấy vậy thì chẳng vui chút nào.</c.vietnamese>
+
+388
+00:21:43,635 --> 00:21:46,596
+<c.vietnamese>Và có vẻ trong bữa tối đó,
+họ cũng có tình ý gì đó.</c.vietnamese>
+
+389
+00:21:48,307 --> 00:21:51,143
+<c.vietnamese>Tớ không nghĩ
+anh ấy và y tá Do và anh ấy có gì đó.</c.vietnamese>
+
+390
+00:21:52,894 --> 00:21:55,105
+<c.vietnamese>- Phải.
+- Uống nào.</c.vietnamese>
+
+391
+00:21:56,231 --> 00:21:57,232
+<c.vietnamese>Nâng ly.</c.vietnamese>
+
+392
+00:22:03,405 --> 00:22:08,368
+<c.vietnamese>Tớ vừa nhận ra chuyện tình cảm
+làm tớ buồn vì mấy chuyện vặt vãnh.</c.vietnamese>
+
+393
+00:22:09,369 --> 00:22:10,537
+<c.vietnamese>"Thế này ổn không?"</c.vietnamese>
+
+394
+00:22:10,620 --> 00:22:12,748
+<c.vietnamese>"Mình làm mẹ mà thế này được không?"</c.vietnamese>
+
+395
+00:22:12,831 --> 00:22:15,292
+<c.vietnamese>Tớ thấy hơi rối thôi.</c.vietnamese>
+
+396
+00:22:17,210 --> 00:22:19,296
+<c.vietnamese>Chuyện thường ấy mà. Bình thường thôi.</c.vietnamese>
+
+397
+00:22:20,255 --> 00:22:21,757
+<c.vietnamese>Trời ạ, uống đi đã.</c.vietnamese>
+
+398
+00:22:22,549 --> 00:22:23,425
+<c.vietnamese>Trời ạ.</c.vietnamese>
+
+399
+00:22:31,808 --> 00:22:32,642
+<c.vietnamese>Ha Neul.</c.vietnamese>
+
+400
+00:22:33,351 --> 00:22:37,647
+<c.vietnamese>Cứ mỗi 15 giây lại uống.
+Sao không chậm lại chút?</c.vietnamese>
+
+401
+00:22:38,356 --> 00:22:39,441
+<c.vietnamese>Đừng lo.</c.vietnamese>
+
+402
+00:22:39,524 --> 00:22:42,194
+<c.vietnamese>Hôm nay rượu cay hơn,
+nên tớ chỉ uống một chai.</c.vietnamese>
+
+403
+00:22:43,111 --> 00:22:43,987
+<c.vietnamese>Một chai thôi?</c.vietnamese>
+
+404
+00:22:44,738 --> 00:22:46,281
+<c.vietnamese>Mỗi người một chai hay cả hội?</c.vietnamese>
+
+405
+00:22:46,364 --> 00:22:48,325
+<c.vietnamese>Dĩ nhiên là mỗi người một chai.</c.vietnamese>
+
+406
+00:22:48,408 --> 00:22:49,743
+<c.vietnamese>Suýt thì tớ thất vọng đấy.</c.vietnamese>
+
+407
+00:22:51,328 --> 00:22:52,579
+<c.vietnamese>Nếu thế…</c.vietnamese>
+
+408
+00:22:52,662 --> 00:22:54,998
+<c.vietnamese>Làm thêm ly nữa đi.</c.vietnamese>
+
+409
+00:22:56,625 --> 00:22:59,711
+<c.vietnamese>Uống với tốc độ này làm tớ lo thật đấy.</c.vietnamese>
+
+410
+00:22:59,795 --> 00:23:01,463
+<c.vietnamese>Nâng ly.</c.vietnamese>
+
+411
+00:23:10,430 --> 00:23:11,973
+<c.vietnamese><i>Tôi đã lo lắng.</i></c.vietnamese>
+
+412
+00:23:14,184 --> 00:23:15,602
+<c.vietnamese><i>Và tôi đã đúng.</i></c.vietnamese>
+
+413
+00:23:21,733 --> 00:23:23,652
+<c.vietnamese>Cả hai dậy đi nào.</c.vietnamese>
+
+414
+00:23:23,735 --> 00:23:25,445
+<c.vietnamese>Mì <i>ramyeon</i> nở rồi này.</c.vietnamese>
+
+415
+00:23:26,863 --> 00:23:29,324
+<c.vietnamese>Ha Neul, cậu muốn ăn mì <i>ramyeon</i>
+cho ấm bụng mà.</c.vietnamese>
+
+416
+00:23:31,368 --> 00:23:32,994
+<c.vietnamese>Trời ạ. Phải vậy không?</c.vietnamese>
+
+417
+00:23:33,620 --> 00:23:36,206
+<c.vietnamese>Ha Neul, Hong Ran đang ăn ngon chưa kìa.</c.vietnamese>
+
+418
+00:23:36,832 --> 00:23:40,919
+<c.vietnamese>Không ăn thì sẽ bị say nguội đấy.
+Ha Neul? Có thở không vậy?</c.vietnamese>
+
+419
+00:23:42,838 --> 00:23:44,172
+<c.vietnamese>Ngon quá, Ha Neul ơi.</c.vietnamese>
+
+420
+00:23:46,049 --> 00:23:47,134
+<c.vietnamese>Tôi là Jeong Woo.</c.vietnamese>
+
+421
+00:23:48,635 --> 00:23:49,636
+<c.vietnamese>Từ khi nào vậy?</c.vietnamese>
+
+422
+00:23:50,470 --> 00:23:51,888
+<c.vietnamese>Từ đầu đã vậy mà.</c.vietnamese>
+
+423
+00:23:52,556 --> 00:23:53,390
+<c.vietnamese>Cậu say à?</c.vietnamese>
+
+424
+00:23:55,350 --> 00:23:57,477
+<c.vietnamese>Cô mới là người say ấy.</c.vietnamese>
+
+425
+00:23:59,229 --> 00:24:00,063
+<c.vietnamese>Cậu tỉnh rồi à?</c.vietnamese>
+
+426
+00:24:00,147 --> 00:24:01,523
+<c.vietnamese>- Ăn thôi nào?
+- Ai đây?</c.vietnamese>
+
+427
+00:24:03,316 --> 00:24:04,151
+<c.vietnamese>Bạn trai cậu đây.</c.vietnamese>
+
+428
+00:24:05,152 --> 00:24:07,654
+<c.vietnamese>- Từ khi nào?
+- Mấy tháng trước.</c.vietnamese>
+
+429
+00:24:09,656 --> 00:24:11,366
+<c.vietnamese>Nói chuyện kiểu gì đây trời?</c.vietnamese>
+
+430
+00:24:12,993 --> 00:24:13,952
+<c.vietnamese>Ăn thôi, Ha Neul.</c.vietnamese>
+
+431
+00:24:17,664 --> 00:24:19,583
+<c.vietnamese>Bạn gái tôi ơi, phải mở nắp đã.</c.vietnamese>
+
+432
+00:24:20,208 --> 00:24:21,084
+<c.vietnamese>Phải rồi.</c.vietnamese>
+
+433
+00:24:21,168 --> 00:24:22,419
+<c.vietnamese>Để tớ mở cho.</c.vietnamese>
+
+434
+00:24:23,378 --> 00:24:24,546
+<c.vietnamese>Cảm ơn nhé.</c.vietnamese>
+
+435
+00:24:27,174 --> 00:24:28,758
+<c.vietnamese>- Uống chậm thôi.
+- Jeong Woo!</c.vietnamese>
+
+436
+00:24:28,842 --> 00:24:30,010
+<c.vietnamese>Dae Yeong, nhanh lên.</c.vietnamese>
+
+437
+00:24:30,093 --> 00:24:31,595
+<c.vietnamese>- Nhanh!
+- Dae Yeong kìa.</c.vietnamese>
+
+438
+00:24:31,678 --> 00:24:32,721
+<c.vietnamese>Cậu gọi anh ấy à?</c.vietnamese>
+
+439
+00:24:32,804 --> 00:24:34,347
+<c.vietnamese>Không, cô gọi thì có.</c.vietnamese>
+
+440
+00:24:35,223 --> 00:24:36,349
+<c.vietnamese>Chuyện gì vậy?</c.vietnamese>
+
+441
+00:24:37,976 --> 00:24:39,269
+<c.vietnamese>Trời ạ. Cậu ổn không?</c.vietnamese>
+
+442
+00:24:40,228 --> 00:24:41,730
+<c.vietnamese>Sao lại giấu chai nước?</c.vietnamese>
+
+443
+00:24:42,439 --> 00:24:43,523
+<c.vietnamese>Nước…</c.vietnamese>
+
+444
+00:24:45,108 --> 00:24:45,984
+<c.vietnamese>- Tớ…
+- Ê, Ha Neul.</c.vietnamese>
+
+445
+00:24:46,443 --> 00:24:47,277
+<c.vietnamese>Thôi nào.</c.vietnamese>
+
+446
+00:24:47,402 --> 00:24:49,196
+<c.vietnamese>Trời ạ. Làm rơi mất rồi.</c.vietnamese>
+
+447
+00:24:49,279 --> 00:24:51,198
+<c.vietnamese>- Đứng dậy đi.
+- Đừng cãi nhau mà.</c.vietnamese>
+
+448
+00:24:51,281 --> 00:24:53,325
+<c.vietnamese>- Được rồi.
+- Rồi.</c.vietnamese>
+
+449
+00:24:53,408 --> 00:24:54,784
+<c.vietnamese>Tốt rồi. Đi thôi.</c.vietnamese>
+
+450
+00:25:03,501 --> 00:25:05,962
+<c.vietnamese>Trời ạ, họ uống bao nhiêu vậy?</c.vietnamese>
+
+451
+00:25:06,046 --> 00:25:10,759
+<c.vietnamese>Không nhiều, nhưng uống nhanh quá.</c.vietnamese>
+
+452
+00:25:11,384 --> 00:25:12,761
+<c.vietnamese>Thật không tin nổi.</c.vietnamese>
+
+453
+00:25:12,844 --> 00:25:14,763
+<c.vietnamese>Sao cậu không ngăn họ?</c.vietnamese>
+
+454
+00:25:14,846 --> 00:25:17,224
+<c.vietnamese>Do cậu mà ra cả đấy.</c.vietnamese>
+
+455
+00:25:18,016 --> 00:25:20,810
+<c.vietnamese>Cậu bảo tớ tệ nhất, nhưng cậu mới tệ ấy.</c.vietnamese>
+
+456
+00:25:20,894 --> 00:25:24,314
+<c.vietnamese>- Nói vậy là sao?
+- Cô ấy kể việc cậu làm rồi.</c.vietnamese>
+
+457
+00:25:24,397 --> 00:25:27,442
+<c.vietnamese>Này, vậy thì cậu cũng nên biết
+đó là tai nạn thôi.</c.vietnamese>
+
+458
+00:25:27,525 --> 00:25:29,110
+<c.vietnamese>Tớ buồn sẵn rồi, cái thằng này.</c.vietnamese>
+
+459
+00:25:29,194 --> 00:25:30,278
+<c.vietnamese>"Cái thằng này" hả?</c.vietnamese>
+
+460
+00:25:30,362 --> 00:25:32,280
+<c.vietnamese>Đừng gọi cậu ấy kiểu đó.</c.vietnamese>
+
+461
+00:25:32,364 --> 00:25:35,700
+<c.vietnamese>- Đừng hành hạ cậu ấy.
+- Đúng rồi!</c.vietnamese>
+
+462
+00:25:35,784 --> 00:25:38,328
+<c.vietnamese>Này, đừng nói vậy với Dae Yeong.</c.vietnamese>
+
+463
+00:25:38,411 --> 00:25:40,413
+<c.vietnamese>Anh ấy tội nghiệp lắm.</c.vietnamese>
+
+464
+00:25:40,497 --> 00:25:41,414
+<c.vietnamese>Đúng rồi!</c.vietnamese>
+
+465
+00:25:41,498 --> 00:25:43,541
+<c.vietnamese>Này, Jeong Woo tội nghiệp hơn.</c.vietnamese>
+
+466
+00:25:43,625 --> 00:25:46,962
+<c.vietnamese>Cậu ấy tội nghiệp nhất cái đường này.</c.vietnamese>
+
+467
+00:25:47,045 --> 00:25:50,173
+<c.vietnamese>Này, Dae Yeong tội nghiệp nhất Seoul đấy.</c.vietnamese>
+
+468
+00:25:51,007 --> 00:25:51,841
+<c.vietnamese>Không phải đâu.</c.vietnamese>
+
+469
+00:25:51,925 --> 00:25:55,345
+<c.vietnamese>Jeong Woo tội nghiệp nhất châu Á đấy!</c.vietnamese>
+
+470
+00:25:55,428 --> 00:25:57,222
+<c.vietnamese>Ta là gì, ngựa cho họ cưỡi à? Trời ạ.</c.vietnamese>
+
+471
+00:25:58,014 --> 00:26:00,267
+<c.vietnamese>Gọi taxi đi, không thì tội nghiệp hơn nữa!</c.vietnamese>
+
+472
+00:26:00,350 --> 00:26:01,434
+<c.vietnamese>Được, cậu gọi đi.</c.vietnamese>
+
+473
+00:26:01,518 --> 00:26:02,352
+<c.vietnamese>Chúc may mắn.</c.vietnamese>
+
+474
+00:26:02,435 --> 00:26:05,313
+<c.vietnamese>Thấy tội nghiệp Jeong Woo quá.</c.vietnamese>
+
+475
+00:26:05,397 --> 00:26:10,026
+<c.vietnamese>Cậu ấy tội nghiệp nhất thế giới luôn.</c.vietnamese>
+
+476
+00:26:12,404 --> 00:26:13,738
+<c.vietnamese>Jeong Woo…</c.vietnamese>
+
+477
+00:26:14,281 --> 00:26:16,116
+<c.vietnamese>Tớ đang tội nghiệp nhất đời đây.</c.vietnamese>
+
+478
+00:26:16,866 --> 00:26:18,118
+<c.vietnamese>Jeong Woo…</c.vietnamese>
+
+479
+00:26:18,201 --> 00:26:19,869
+<c.vietnamese>Ta sẽ sớm về nhà thôi.</c.vietnamese>
+
+480
+00:26:21,162 --> 00:26:22,080
+<c.vietnamese>Taxi!</c.vietnamese>
+
+481
+00:26:32,173 --> 00:26:33,758
+<c.vietnamese>Về nhà rồi.</c.vietnamese>
+
+482
+00:26:34,342 --> 00:26:36,970
+<c.vietnamese>Trời ạ. Sao nó say đến vậy?</c.vietnamese>
+
+483
+00:26:38,221 --> 00:26:41,641
+<c.vietnamese>Lâu rồi chưa uống
+nên lần này cậu ấy nhanh say quá.</c.vietnamese>
+
+484
+00:26:41,725 --> 00:26:43,643
+<c.vietnamese>Làm mẹ tức chết thôi.</c.vietnamese>
+
+485
+00:26:45,395 --> 00:26:46,938
+<c.vietnamese>Cậu ấy gọi ai vậy?</c.vietnamese>
+
+486
+00:26:50,066 --> 00:26:54,529
+<c.vietnamese>CON GÁI TÔI, GIÁO SƯ NAM</c.vietnamese>
+
+487
+00:26:57,157 --> 00:26:58,158
+<c.vietnamese>Mẹ à.</c.vietnamese>
+
+488
+00:26:58,616 --> 00:27:00,702
+<c.vietnamese>Con phải trực đêm, không về nhà được.</c.vietnamese>
+
+489
+00:27:01,244 --> 00:27:02,078
+<c.vietnamese>Chào mẹ nhé.</c.vietnamese>
+
+490
+00:27:07,709 --> 00:27:10,045
+<c.vietnamese>Jeong Woo, tớ vừa xạo mẹ tớ rồi.</c.vietnamese>
+
+491
+00:27:10,128 --> 00:27:11,963
+<c.vietnamese>Tối nay tớ sẽ ngủ lại chỗ cậu.</c.vietnamese>
+
+492
+00:27:32,817 --> 00:27:34,319
+<c.vietnamese>Xin đừng nhìn cháu như vậy.</c.vietnamese>
+
+493
+00:27:35,904 --> 00:27:36,905
+<c.vietnamese>Cô đi đâu vậy?</c.vietnamese>
+
+494
+00:27:38,782 --> 00:27:39,866
+<c.vietnamese>Chào cô ạ.</c.vietnamese>
+
+495
+00:27:45,121 --> 00:27:47,290
+<c.vietnamese>- Ngồi xuống chút đã nhé?
+- Ừ.</c.vietnamese>
+
+496
+00:27:50,502 --> 00:27:51,503
+<c.vietnamese>Này.</c.vietnamese>
+
+497
+00:27:52,921 --> 00:27:53,922
+<c.vietnamese>Em ổn không vậy?</c.vietnamese>
+
+498
+00:27:54,464 --> 00:27:56,591
+<c.vietnamese>Anh kiếm gì cho em giải rượu nhé?</c.vietnamese>
+
+499
+00:27:57,175 --> 00:28:00,720
+<c.vietnamese>Không, thế thì lãng phí rượu rồi.</c.vietnamese>
+
+500
+00:28:02,680 --> 00:28:03,681
+<c.vietnamese>Nhân tiện,</c.vietnamese>
+
+501
+00:28:04,474 --> 00:28:09,270
+<c.vietnamese>hôm nay ở thang máy, anh bảo biến đi,
+không phải là nói em đâu.</c.vietnamese>
+
+502
+00:28:10,105 --> 00:28:12,941
+<c.vietnamese>Và chuyện với y tá Do
+cũng không phải cố ý.</c.vietnamese>
+
+503
+00:28:14,734 --> 00:28:16,486
+<c.vietnamese>Em cũng biết mà.</c.vietnamese>
+
+504
+00:28:17,529 --> 00:28:19,864
+<c.vietnamese>Vậy sao em làm ngơ tin nhắn anh?</c.vietnamese>
+
+505
+00:28:22,909 --> 00:28:24,035
+<c.vietnamese>Thì…</c.vietnamese>
+
+506
+00:28:25,495 --> 00:28:26,663
+<c.vietnamese>em nghĩ</c.vietnamese>
+
+507
+00:28:28,331 --> 00:28:31,042
+<c.vietnamese>hẹn hò như say rượu vậy.</c.vietnamese>
+
+508
+00:28:34,003 --> 00:28:37,465
+<c.vietnamese>Khi uống thì chẳng có gì phải lo nghĩ.</c.vietnamese>
+
+509
+00:28:38,550 --> 00:28:41,803
+<c.vietnamese>Cứ tận hưởng cơn chuếnh choáng.</c.vietnamese>
+
+510
+00:28:42,887 --> 00:28:45,265
+<c.vietnamese>Mấy chuyện vặt vãnh nhất
+cũng làm mình cười.</c.vietnamese>
+
+511
+00:28:46,558 --> 00:28:48,560
+<c.vietnamese>Cảm giác như đang đi trên mây.</c.vietnamese>
+
+512
+00:28:51,730 --> 00:28:56,568
+<c.vietnamese>Nhưng nếu cứ uống như thế</c.vietnamese>
+
+513
+00:28:58,153 --> 00:29:02,574
+<c.vietnamese>thì cuối cùng chỉ nát bét.</c.vietnamese>
+
+514
+00:29:08,538 --> 00:29:10,415
+<c.vietnamese>Sau khi ly hôn,</c.vietnamese>
+
+515
+00:29:12,917 --> 00:29:15,170
+<c.vietnamese>em tự nhủ</c.vietnamese>
+
+516
+00:29:16,963 --> 00:29:21,926
+<c.vietnamese>mình sẽ không bao giờ yêu ai nữa.</c.vietnamese>
+
+517
+00:29:23,678 --> 00:29:26,014
+<c.vietnamese>Em có đứa con trai cần chăm sóc mà.</c.vietnamese>
+
+518
+00:29:29,058 --> 00:29:30,685
+<c.vietnamese>Vì cuối cùng,</c.vietnamese>
+
+519
+00:29:31,561 --> 00:29:33,563
+<c.vietnamese>em chỉ có toàn ký ức buồn.</c.vietnamese>
+
+520
+00:29:39,819 --> 00:29:41,279
+<c.vietnamese>Anh đã làm em vui.</c.vietnamese>
+
+521
+00:29:43,364 --> 00:29:45,617
+<c.vietnamese>Anh quan tâm và giúp đỡ em,</c.vietnamese>
+
+522
+00:29:47,160 --> 00:29:49,287
+<c.vietnamese>nên lòng em lại thấy rạo rực.</c.vietnamese>
+
+523
+00:29:53,500 --> 00:29:59,255
+<c.vietnamese>Nhưng sau khi em chìm trong cảm giác này
+và cứ uống mãi,</c.vietnamese>
+
+524
+00:30:01,549 --> 00:30:05,720
+<c.vietnamese>em có thể tỉnh dậy cơn say nguội đau lòng.</c.vietnamese>
+
+525
+00:30:07,764 --> 00:30:09,140
+<c.vietnamese>Nên em hơi sợ.</c.vietnamese>
+
+526
+00:30:43,842 --> 00:30:46,344
+<c.vietnamese>Đừng có hành hạ Jeong Woo đấy.</c.vietnamese>
+
+527
+00:30:47,262 --> 00:30:48,096
+<c.vietnamese>Chết tiệt.</c.vietnamese>
+
+528
+00:30:48,763 --> 00:30:50,223
+<c.vietnamese>Tôi không để yên đâu!</c.vietnamese>
+
+529
+00:30:56,604 --> 00:30:58,189
+<c.vietnamese>Gì? Sao tớ lại ngủ ở đây?</c.vietnamese>
+
+530
+00:30:58,273 --> 00:31:02,318
+<c.vietnamese>Nửa đêm chị ra ngoài này
+vì thấy ngột ngạt quá.</c.vietnamese>
+
+531
+00:31:02,402 --> 00:31:03,319
+<c.vietnamese>Thế à?</c.vietnamese>
+
+532
+00:31:03,403 --> 00:31:04,571
+<c.vietnamese>- Jeong Woo.
+- Vâng ạ.</c.vietnamese>
+
+533
+00:31:04,654 --> 00:31:06,364
+<c.vietnamese>Cô không giao Ha Neul cho cháu đâu.</c.vietnamese>
+
+534
+00:31:06,948 --> 00:31:09,701
+<c.vietnamese>Làm sao giao đứa say này
+cho cháu được? Không đời nào.</c.vietnamese>
+
+535
+00:31:11,077 --> 00:31:14,247
+<c.vietnamese>Con đã làm gì ạ?</c.vietnamese>
+
+536
+00:31:14,831 --> 00:31:18,334
+<c.vietnamese>Hôm qua là lần đầu tiên
+con làm mẹ mất mặt.</c.vietnamese>
+
+537
+00:31:18,418 --> 00:31:21,254
+<c.vietnamese>Trời ạ, con chưa hề nghĩ
+mẹ lại mất mặt vì Ha Neul.</c.vietnamese>
+
+538
+00:31:21,337 --> 00:31:22,881
+<c.vietnamese>Mẹ toàn mất mặt vì con thôi.</c.vietnamese>
+
+539
+00:31:22,964 --> 00:31:24,549
+<c.vietnamese>Đủ rồi nhé.</c.vietnamese>
+
+540
+00:31:24,632 --> 00:31:27,844
+<c.vietnamese>Ai mà chẳng có lúc say vào rồi tệ hại.</c.vietnamese>
+
+541
+00:31:28,511 --> 00:31:29,429
+<c.vietnamese>"Tệ hại" à?</c.vietnamese>
+
+542
+00:31:31,139 --> 00:31:32,849
+<c.vietnamese>Cháu làm gì tệ đến mức đó.</c.vietnamese>
+
+543
+00:31:33,600 --> 00:31:34,434
+<c.vietnamese>Ăn đi.</c.vietnamese>
+
+544
+00:31:51,159 --> 00:31:53,745
+<c.vietnamese>Bạn gái tôi ơi, phải mở nắp đã.</c.vietnamese>
+
+545
+00:31:55,204 --> 00:31:57,624
+<c.vietnamese>Jeong Woo, tớ vừa xạo mẹ tớ rồi.</c.vietnamese>
+
+546
+00:31:57,707 --> 00:31:59,459
+<c.vietnamese>Tối nay tớ sẽ ngủ lại chỗ cậu.</c.vietnamese>
+
+547
+00:32:06,841 --> 00:32:09,093
+<c.vietnamese>Sao cậu ấy lúc nào cũng dễ thương vậy?</c.vietnamese>
+
+548
+00:32:10,094 --> 00:32:10,929
+<c.vietnamese>Không tin nổi.</c.vietnamese>
+
+549
+00:32:13,348 --> 00:32:15,600
+<c.vietnamese>Ngon lành. Đẹp rồi.</c.vietnamese>
+
+550
+00:32:18,811 --> 00:32:19,812
+<c.vietnamese>Cậu ấy dễ thương quá.</c.vietnamese>
+
+551
+00:32:25,151 --> 00:32:26,361
+<c.vietnamese>Sao cậu ở đây?</c.vietnamese>
+
+552
+00:32:27,528 --> 00:32:29,280
+<c.vietnamese>À…Ha Neul gọi tớ.</c.vietnamese>
+
+553
+00:32:30,657 --> 00:32:31,491
+<c.vietnamese>Ha Neul à?</c.vietnamese>
+
+554
+00:32:31,574 --> 00:32:33,910
+<c.vietnamese>Tối qua lúc gọi tớ, cậu ấy say lắm rồi.</c.vietnamese>
+
+555
+00:32:33,993 --> 00:32:36,788
+<c.vietnamese>Cậu ấy gọi đến quán của Min Ho
+hỏi xin số tớ.</c.vietnamese>
+
+556
+00:32:37,580 --> 00:32:40,291
+<c.vietnamese>Cậu ấy bảo tớ nên xin lỗi cậu đàng hoàng.</c.vietnamese>
+
+557
+00:32:41,000 --> 00:32:43,378
+<c.vietnamese>- Không thì cậu ấy giết.
+- Gì cơ?</c.vietnamese>
+
+558
+00:32:43,962 --> 00:32:45,588
+<c.vietnamese>Tớ nghĩ thế này là tốt nhất.</c.vietnamese>
+
+559
+00:32:46,339 --> 00:32:48,049
+<c.vietnamese>Tớ đã muốn gọi cho cậu.</c.vietnamese>
+
+560
+00:32:48,132 --> 00:32:50,802
+<c.vietnamese>Nhưng tớ nghĩ cậu sẽ không thích,
+tớ cũng hổ thẹn lắm.</c.vietnamese>
+
+561
+00:32:50,885 --> 00:32:52,178
+<c.vietnamese>Tớ chẳng biết nên làm gì.</c.vietnamese>
+
+562
+00:32:53,179 --> 00:32:55,640
+<c.vietnamese>Nhưng tớ mừng
+vì có thể xin lỗi cậu thế này.</c.vietnamese>
+
+563
+00:32:58,559 --> 00:32:59,560
+<c.vietnamese>Tớ xin lỗi cậu.</c.vietnamese>
+
+564
+00:33:00,478 --> 00:33:03,022
+<c.vietnamese>Tớ chẳng biết tình bạn bọn mình
+lại hời hợt đến vậy.</c.vietnamese>
+
+565
+00:33:03,648 --> 00:33:06,526
+<c.vietnamese>Nhưng tớ có nguy cơ mất hết,
+nên tớ chẳng biết làm gì.</c.vietnamese>
+
+566
+00:33:07,485 --> 00:33:09,487
+<c.vietnamese>Tớ sẽ mãi hối hận vì làm tổn thương cậu.</c.vietnamese>
+
+567
+00:33:10,613 --> 00:33:11,864
+<c.vietnamese>Tớ sẽ sống trong tủi hổ.</c.vietnamese>
+
+568
+00:33:13,866 --> 00:33:14,867
+<c.vietnamese>Chẳng giống cậu.</c.vietnamese>
+
+569
+00:33:14,951 --> 00:33:16,452
+<c.vietnamese>Cậu muốn thì tớ sẽ quỳ gối.</c.vietnamese>
+
+570
+00:33:16,536 --> 00:33:20,081
+<c.vietnamese>Tớ sẽ làm thế thật. Tớ có thể quỳ gối mà.</c.vietnamese>
+
+571
+00:33:20,164 --> 00:33:21,416
+<c.vietnamese>Đừng làm quá vậy.</c.vietnamese>
+
+572
+00:33:23,209 --> 00:33:24,252
+<c.vietnamese>Được rồi.</c.vietnamese>
+
+573
+00:33:25,878 --> 00:33:27,005
+<c.vietnamese>Tớ nhận lời xin lỗi.</c.vietnamese>
+
+574
+00:33:28,339 --> 00:33:29,507
+<c.vietnamese>Tớ…</c.vietnamese>
+
+575
+00:33:29,590 --> 00:33:34,762
+<c.vietnamese>MÌ MILMYEON LẠNH
+MÌ MILMYEON CAY</c.vietnamese>
+
+576
+00:33:34,846 --> 00:33:35,722
+<c.vietnamese>Cậu đi đi.</c.vietnamese>
+
+577
+00:33:35,805 --> 00:33:37,348
+<c.vietnamese>Ừ. Hẹn lần sau gặp lại.</c.vietnamese>
+
+578
+00:33:49,694 --> 00:33:52,155
+<c.vietnamese>- Yeo Jeong Woo nghe.
+<i>- Chào bác sĩ Yeo.</i></c.vietnamese>
+
+579
+00:33:52,238 --> 00:33:54,365
+<c.vietnamese><i>Tôi ở đội PR của Bệnh viện Deahan.</i></c.vietnamese>
+
+580
+00:33:54,449 --> 00:33:57,326
+<c.vietnamese>Về chuyện ta bàn hôm qua ấy.</c.vietnamese>
+
+581
+00:33:57,410 --> 00:33:59,662
+<c.vietnamese>Nhớ ta đã nhất trí phỏng vấn trước ca mổ</c.vietnamese>
+
+582
+00:33:59,746 --> 00:34:03,082
+<c.vietnamese><i>và chụp ảnh với bệnh nhân sau ca mổ chứ?</i></c.vietnamese>
+
+583
+00:34:04,500 --> 00:34:05,877
+<c.vietnamese><i>Cứ coi như tôi chưa nói gì.</i></c.vietnamese>
+
+584
+00:34:07,837 --> 00:34:08,921
+<c.vietnamese>Vâng.</c.vietnamese>
+
+585
+00:34:09,714 --> 00:34:11,174
+<c.vietnamese>Sao đột nhiên lại vậy?</c.vietnamese>
+
+586
+00:34:11,257 --> 00:34:14,343
+<c.vietnamese>Tối qua Giáo sư Nam kiên quyết</c.vietnamese>
+
+587
+00:34:14,427 --> 00:34:18,431
+<c.vietnamese>bảo là nếu yêu cầu anh làm thế
+thì cô ấy và anh sẽ không tham gia nữa.</c.vietnamese>
+
+588
+00:34:18,514 --> 00:34:20,892
+<c.vietnamese><i>Tôi thành thật xin lỗi anh.</i></c.vietnamese>
+
+589
+00:34:22,060 --> 00:34:23,061
+<c.vietnamese>Không sao ạ.</c.vietnamese>
+
+590
+00:34:24,353 --> 00:34:26,105
+<c.vietnamese>Vâng. Chào cô.</c.vietnamese>
+
+591
+00:34:31,903 --> 00:34:33,529
+<c.vietnamese>Ý cậu ấy là vậy à?</c.vietnamese>
+
+592
+00:34:37,992 --> 00:34:38,993
+<c.vietnamese>Cậu ổn không?</c.vietnamese>
+
+593
+00:34:39,702 --> 00:34:41,829
+<c.vietnamese>Sao cậu uống nhiều vậy?</c.vietnamese>
+
+594
+00:34:43,081 --> 00:34:45,917
+<c.vietnamese>Vì tớ đau lòng cho cậu.</c.vietnamese>
+
+595
+00:34:48,086 --> 00:34:51,839
+<c.vietnamese>Trong thời gian ta bên nhau,
+tớ thấy cậu thường đau khổ</c.vietnamese>
+
+596
+00:34:52,340 --> 00:34:54,175
+<c.vietnamese>hơn là thấy cậu hạnh phúc.</c.vietnamese>
+
+597
+00:34:58,012 --> 00:34:59,138
+<c.vietnamese>Nói này.</c.vietnamese>
+
+598
+00:35:00,181 --> 00:35:04,519
+<c.vietnamese>Đôi khi tớ hình dung
+cậu ngồi trơ trọi trên ghế bị cáo.</c.vietnamese>
+
+599
+00:35:05,561 --> 00:35:08,481
+<c.vietnamese>Lần nào nghĩ vậy tớ cũng khóc.</c.vietnamese>
+
+600
+00:35:11,317 --> 00:35:13,486
+<c.vietnamese>Cậu mất mát nhiều quá.</c.vietnamese>
+
+601
+00:35:14,112 --> 00:35:16,447
+<c.vietnamese>Cậu vô tội mà bị ghét bỏ.</c.vietnamese>
+
+602
+00:35:16,531 --> 00:35:18,908
+<c.vietnamese>Cậu mất hết bạn bè.</c.vietnamese>
+
+603
+00:35:19,784 --> 00:35:21,494
+<c.vietnamese>Cuộc đời bị hủy hoại.</c.vietnamese>
+
+604
+00:35:22,286 --> 00:35:26,707
+<c.vietnamese>Tại sao họ lại làm toáng lên
+về tiền đền bù cậu nhận được?</c.vietnamese>
+
+605
+00:35:30,419 --> 00:35:31,754
+<c.vietnamese>Thế mà sau đó,</c.vietnamese>
+
+606
+00:35:31,838 --> 00:35:36,092
+<c.vietnamese>cậu muốn dùng số tiền đó
+để giúp đỡ người khác.</c.vietnamese>
+
+607
+00:35:39,387 --> 00:35:43,182
+<c.vietnamese>Tớ ấn tượng về cậu
+mà cũng thấy thương cậu.</c.vietnamese>
+
+608
+00:35:44,851 --> 00:35:47,145
+<c.vietnamese>Cậu chẳng nghĩ cho bản thân trước,</c.vietnamese>
+
+609
+00:35:48,396 --> 00:35:49,981
+<c.vietnamese>chuyện đó làm tớ đau lòng lắm.</c.vietnamese>
+
+610
+00:35:51,649 --> 00:35:52,525
+<c.vietnamese>Thế à?</c.vietnamese>
+
+611
+00:35:57,655 --> 00:36:01,826
+<c.vietnamese>Có ai hành hạ cậu nữa,
+tớ nhất định phải bắt họ trả giá.</c.vietnamese>
+
+612
+00:36:04,245 --> 00:36:07,790
+<c.vietnamese>Tớ nhất định sẽ bắt những ai
+làm tổn thương cậu phải xin lỗi.</c.vietnamese>
+
+613
+00:36:09,208 --> 00:36:10,793
+<c.vietnamese>Tớ đã gọi họ rồi.</c.vietnamese>
+
+614
+00:36:14,964 --> 00:36:16,132
+<c.vietnamese>Là vậy sao?</c.vietnamese>
+
+615
+00:36:27,935 --> 00:36:30,354
+<c.vietnamese>- Cậu còn chưa đi làm à?
+- Chưa.</c.vietnamese>
+
+616
+00:36:30,980 --> 00:36:31,814
+<c.vietnamese>Ừm.</c.vietnamese>
+
+617
+00:36:33,232 --> 00:36:34,984
+<c.vietnamese>Vậy tớ đi trước đây.</c.vietnamese>
+
+618
+00:36:36,485 --> 00:36:38,279
+<c.vietnamese>Khoan. Cùng đi chứ.</c.vietnamese>
+
+619
+00:36:39,989 --> 00:36:44,577
+<c.vietnamese>Nói này. Lần trước tớ uống nhiều,
+cậu mắng tớ một trận.</c.vietnamese>
+
+620
+00:36:44,660 --> 00:36:47,455
+<c.vietnamese>Nhưng đôi khi không thể kìm được.
+Không phải à?</c.vietnamese>
+
+621
+00:36:48,331 --> 00:36:49,165
+<c.vietnamese>Đúng là có.</c.vietnamese>
+
+622
+00:36:49,707 --> 00:36:52,084
+<c.vietnamese>Mà này, tớ tệ hại đến vậy à?</c.vietnamese>
+
+623
+00:36:53,336 --> 00:36:54,545
+<c.vietnamese>Cậu đâu có tệ vậy.</c.vietnamese>
+
+624
+00:36:55,171 --> 00:36:57,673
+<c.vietnamese>Vậy thì tệ thế nào?
+Tớ có làm bậy gì không?</c.vietnamese>
+
+625
+00:36:58,883 --> 00:37:00,468
+<c.vietnamese>Không có.</c.vietnamese>
+
+626
+00:37:01,427 --> 00:37:02,261
+<c.vietnamese>Phải rồi.</c.vietnamese>
+
+627
+00:37:04,555 --> 00:37:06,098
+<c.vietnamese><i>Cậu không làm bậy gì cả,</i></c.vietnamese>
+
+628
+00:37:06,724 --> 00:37:08,351
+<c.vietnamese><i>Nhưng cậu sai một điều.</i></c.vietnamese>
+
+629
+00:37:08,434 --> 00:37:09,894
+<c.vietnamese>Tớ có làm bậy gì à?</c.vietnamese>
+
+630
+00:37:09,977 --> 00:37:13,898
+<c.vietnamese><i>Cậu bảo trong lúc bên nhau</i>
+<i>cậu thường thấy tớ đau khổ.</i></c.vietnamese>
+
+631
+00:37:13,981 --> 00:37:15,191
+<c.vietnamese>Cứ nói đi mà.</c.vietnamese>
+
+632
+00:37:15,274 --> 00:37:18,861
+<c.vietnamese><i>Nhưng tớ hạnh phúc nhiều hơn mà.</i></c.vietnamese>
+
+633
+00:37:20,738 --> 00:37:25,409
+<c.vietnamese><i>Cậu đã dạy tớ cách làm vơi nỗi đau.</i></c.vietnamese>
+
+634
+00:37:27,411 --> 00:37:32,124
+<c.vietnamese><i>Tớ đã học cách quên đi nỗi buồn.</i></c.vietnamese>
+
+635
+00:37:35,253 --> 00:37:36,254
+<c.vietnamese><i>Cậu đã khóc…</i></c.vietnamese>
+
+636
+00:37:38,631 --> 00:37:40,591
+<c.vietnamese><i>vì nỗi đau của tớ.</i></c.vietnamese>
+
+637
+00:37:44,178 --> 00:37:45,179
+<c.vietnamese><i>Và chuyện đó…</i></c.vietnamese>
+
+638
+00:37:50,476 --> 00:37:52,687
+<c.vietnamese><i>khiến tớ tin vào sức mạnh của tình người.</i></c.vietnamese>
+
+639
+00:37:58,526 --> 00:38:01,696
+<c.vietnamese><i>Nên tớ muốn đền ơn đáp nghĩa</i></c.vietnamese>
+
+640
+00:38:02,822 --> 00:38:05,783
+<c.vietnamese><i>cho một người cũng đang đau khổ…</i></c.vietnamese>
+
+641
+00:38:11,747 --> 00:38:13,416
+<c.vietnamese><i>theo cách riêng của tớ.</i></c.vietnamese>
+
+642
+00:38:17,086 --> 00:38:18,879
+<c.vietnamese>Anh khỏe không ạ?</c.vietnamese>
+
+643
+00:38:18,963 --> 00:38:21,674
+<c.vietnamese>Khỏe, tôi khỏe lắm. Còn cậu?</c.vietnamese>
+
+644
+00:38:22,300 --> 00:38:23,884
+<c.vietnamese>Nhờ anh, tôi cũng khỏe.</c.vietnamese>
+
+645
+00:38:23,968 --> 00:38:27,263
+<c.vietnamese>- Nghe nói cậu từ chối phỏng vấn.
+- Vâng.</c.vietnamese>
+
+646
+00:38:27,888 --> 00:38:29,849
+<c.vietnamese>Tôi muốn giữ nguyên mục đích việc này.</c.vietnamese>
+
+647
+00:38:30,725 --> 00:38:31,600
+<c.vietnamese>Tốt lắm.</c.vietnamese>
+
+648
+00:38:32,184 --> 00:38:33,811
+<c.vietnamese>Tập trung vào ca mổ thôi nào.</c.vietnamese>
+
+649
+00:38:34,770 --> 00:38:38,065
+<c.vietnamese>Cảm ơn anh đã thông hiểu
+và chấp nhận đề nghị của tôi.</c.vietnamese>
+
+650
+00:38:38,149 --> 00:38:41,110
+<c.vietnamese>Tôi quá mừng khi được
+tham gia vào việc ý nghĩa này.</c.vietnamese>
+
+651
+00:38:47,366 --> 00:38:49,577
+<c.vietnamese>Cháu ngủ ngon không? Thấy thế nào?</c.vietnamese>
+
+652
+00:39:02,214 --> 00:39:04,633
+<c.vietnamese>Cô bé ngủ ngon vì giường êm.</c.vietnamese>
+
+653
+00:39:11,599 --> 00:39:14,727
+<c.vietnamese>Cô ấy mong ca mổ sẽ tốt đẹp
+và muốn cảm ơn các anh.</c.vietnamese>
+
+654
+00:39:15,394 --> 00:39:19,732
+<c.vietnamese>Chúng tôi sẽ cố hết sức, nên đừng lo.</c.vietnamese>
+
+655
+00:39:25,154 --> 00:39:28,866
+<c.vietnamese>Cảm ơn rất nhiều.</c.vietnamese>
+
+656
+00:39:36,165 --> 00:39:38,751
+<c.vietnamese>Cậu mổ chính nhé?</c.vietnamese>
+
+657
+00:39:39,460 --> 00:39:40,294
+<c.vietnamese>Gì cơ?</c.vietnamese>
+
+658
+00:39:40,795 --> 00:39:42,546
+<c.vietnamese>Không, tôi đâu thể làm thế.</c.vietnamese>
+
+659
+00:39:42,630 --> 00:39:44,590
+<c.vietnamese>- Anh cũng tham gia mà.
+- Sao lại không?</c.vietnamese>
+
+660
+00:39:44,673 --> 00:39:47,551
+<c.vietnamese>Tôi biết cậu đã mổ nhiều ca như này
+lúc đi tình nguyện.</c.vietnamese>
+
+661
+00:39:47,635 --> 00:39:48,844
+<c.vietnamese>Ai biết được?</c.vietnamese>
+
+662
+00:39:48,928 --> 00:39:51,597
+<c.vietnamese>Có lẽ tôi sẽ học hỏi được đôi điều từ cậu.</c.vietnamese>
+
+663
+00:39:55,768 --> 00:39:59,438
+<c.vietnamese>Tôi biết cậu thấy gần gũi cô bé hơn tôi.</c.vietnamese>
+
+664
+00:40:00,314 --> 00:40:03,025
+<c.vietnamese>Tôi chắc chắn cậu đã nghiên cứu rồi.</c.vietnamese>
+
+665
+00:40:04,151 --> 00:40:05,736
+<c.vietnamese>Sao cậu không tự tay làm luôn?</c.vietnamese>
+
+666
+00:40:10,825 --> 00:40:13,244
+<c.vietnamese>Vậy thì tôi sẽ cố hết sức.</c.vietnamese>
+
+667
+00:40:22,378 --> 00:40:23,379
+<c.vietnamese>Được rồi.</c.vietnamese>
+
+668
+00:40:45,985 --> 00:40:47,319
+<c.vietnamese>Tốt. Bên này xong rồi.</c.vietnamese>
+
+669
+00:41:00,124 --> 00:41:00,958
+<c.vietnamese>Đến bên kia.</c.vietnamese>
+
+670
+00:41:13,095 --> 00:41:14,638
+<c.vietnamese>Tôi sẽ tiến hành gây mê.</c.vietnamese>
+
+671
+00:41:17,808 --> 00:41:19,852
+<c.vietnamese>Cháu có thể thở thoải mái.</c.vietnamese>
+
+672
+00:41:23,772 --> 00:41:25,483
+<c.vietnamese>Truyền 35 mg propofol.</c.vietnamese>
+
+673
+00:41:25,566 --> 00:41:27,818
+<c.vietnamese>Đang truyền 35 mg propofol.</c.vietnamese>
+
+674
+00:41:42,750 --> 00:41:44,335
+<c.vietnamese>Mở khí gây mê.</c.vietnamese>
+
+675
+00:41:51,383 --> 00:41:52,218
+<c.vietnamese>Chào bác sĩ.</c.vietnamese>
+
+676
+00:41:52,885 --> 00:41:53,844
+<c.vietnamese>Chào.</c.vietnamese>
+
+677
+00:42:15,282 --> 00:42:16,700
+<c.vietnamese>Tôi tiến hành phẫu thuật nhé?</c.vietnamese>
+
+678
+00:42:17,284 --> 00:42:18,786
+<c.vietnamese>Vâng, anh làm được rồi.</c.vietnamese>
+
+679
+00:42:19,745 --> 00:42:22,248
+<c.vietnamese>Anh phụ trách phần lấy mô
+như ta đã nhất trí,</c.vietnamese>
+
+680
+00:42:22,331 --> 00:42:24,166
+<c.vietnamese>còn tôi sẽ chuẩn bị phần vành tai.</c.vietnamese>
+
+681
+00:42:25,334 --> 00:42:26,669
+<c.vietnamese>Dao mổ.</c.vietnamese>
+
+682
+00:42:31,298 --> 00:42:33,217
+<c.vietnamese>- Bắt đầu.
+- Rõ.</c.vietnamese>
+
+683
+00:43:02,955 --> 00:43:04,081
+<c.vietnamese>Mở thêm nữa.</c.vietnamese>
+
+684
+00:43:07,918 --> 00:43:09,795
+<c.vietnamese>Sao lại khó tách cái này vậy?</c.vietnamese>
+
+685
+00:43:10,546 --> 00:43:12,881
+<c.vietnamese>Bác sĩ Song. Cô bé còn vấn đề nào không?</c.vietnamese>
+
+686
+00:43:12,965 --> 00:43:14,883
+<c.vietnamese>Không, chỉ bị dị tật tai nhỏ.</c.vietnamese>
+
+687
+00:43:14,967 --> 00:43:17,011
+<c.vietnamese>Không có hội chứng hay biến chứng nào.</c.vietnamese>
+
+688
+00:43:20,931 --> 00:43:22,057
+<c.vietnamese>Trời ạ!</c.vietnamese>
+
+689
+00:43:23,142 --> 00:43:23,976
+<c.vietnamese>Trời ơi.</c.vietnamese>
+
+690
+00:43:24,059 --> 00:43:26,061
+<c.vietnamese>Tôi tin là bị rách màng phổi rồi.</c.vietnamese>
+
+691
+00:43:29,356 --> 00:43:30,691
+<c.vietnamese>Thể tích phổi đang thấp.</c.vietnamese>
+
+692
+00:43:31,317 --> 00:43:32,943
+<c.vietnamese>- Để tôi.
+- Được.</c.vietnamese>
+
+693
+00:43:36,697 --> 00:43:38,157
+<c.vietnamese>Màng phổi bị rách,</c.vietnamese>
+
+694
+00:43:38,741 --> 00:43:40,868
+<c.vietnamese>nghi là bị tổn thương phổi.
+Phải xử lý ngay.</c.vietnamese>
+
+695
+00:43:40,951 --> 00:43:43,245
+<c.vietnamese>Bác sĩ Nam, nghi là tổn thương phổi.</c.vietnamese>
+
+696
+00:43:43,329 --> 00:43:45,748
+<c.vietnamese>Nếu mức bão hòa oxy giảm thì báo ngay.</c.vietnamese>
+
+697
+00:43:45,831 --> 00:43:48,042
+<c.vietnamese>Bên đó cố lên. Tôi sẽ làm nhanh hết sức.</c.vietnamese>
+
+698
+00:43:48,125 --> 00:43:49,168
+<c.vietnamese>Vâng, bác sĩ.</c.vietnamese>
+
+699
+00:43:49,251 --> 00:43:52,671
+<c.vietnamese>Nếu có vấn đề về thông khí,
+tôi sẽ dùng cách thông khí một phổi.</c.vietnamese>
+
+700
+00:43:53,213 --> 00:43:55,424
+<c.vietnamese>Chuẩn bị chặn cuống phổi
+để nội soi phế quản.</c.vietnamese>
+
+701
+00:43:56,717 --> 00:43:58,260
+<c.vietnamese>- Nhanh lên.
+- Rõ.</c.vietnamese>
+
+702
+00:43:58,344 --> 00:44:00,512
+<c.vietnamese>- Liên hệ với khoa tim mạch nữa.
+- Rõ.</c.vietnamese>
+
+703
+00:44:01,096 --> 00:44:02,931
+<c.vietnamese>Giữ được không? Tôi sẽ xem qua.</c.vietnamese>
+
+704
+00:44:26,538 --> 00:44:29,541
+<c.vietnamese>Phổi và màng phổi dính nhau.</c.vietnamese>
+
+705
+00:44:29,625 --> 00:44:32,002
+<c.vietnamese>Cho nên mô rách ra thay vì tách ra.</c.vietnamese>
+
+706
+00:44:32,086 --> 00:44:33,003
+<c.vietnamese>Đúng nhỉ?</c.vietnamese>
+
+707
+00:44:33,087 --> 00:44:35,464
+<c.vietnamese>Có gì đó cứ cản trở.</c.vietnamese>
+
+708
+00:44:36,048 --> 00:44:38,801
+<c.vietnamese>Bác sĩ Song, anh bảo không có vấn đề gì
+sao lại có sẹo?</c.vietnamese>
+
+709
+00:44:39,677 --> 00:44:43,263
+<c.vietnamese>Tôi đã kiểm tra kỹ rồi
+mà chẳng thấy có gì.</c.vietnamese>
+
+710
+00:44:43,347 --> 00:44:45,933
+<c.vietnamese>Chụp X-quang cũng không thấy gì.</c.vietnamese>
+
+711
+00:44:48,644 --> 00:44:52,690
+<c.vietnamese>Mức bão hòa oxy đang giảm.
+Giờ đang là 94%, nhưng sẽ sớm giảm.</c.vietnamese>
+
+712
+00:44:52,773 --> 00:44:55,984
+<c.vietnamese>Cô bé mất khí do tổn thương phổi.
+Cần hồi sức tim ngay.</c.vietnamese>
+
+713
+00:44:57,111 --> 00:44:58,570
+<c.vietnamese>Kẹp và kéo Metz.</c.vietnamese>
+
+714
+00:45:06,787 --> 00:45:07,996
+<c.vietnamese>Để tôi xem.</c.vietnamese>
+
+715
+00:45:12,751 --> 00:45:15,462
+<c.vietnamese>Có vẻ màng phổi và phổi dính nhau.</c.vietnamese>
+
+716
+00:45:15,546 --> 00:45:16,880
+<c.vietnamese>Cô bé từng bị bệnh lao à?</c.vietnamese>
+
+717
+00:45:16,964 --> 00:45:19,174
+<c.vietnamese>Không thấy có tình trạng nền nào.</c.vietnamese>
+
+718
+00:45:28,767 --> 00:45:30,394
+<c.vietnamese>CÔ BÉ HO NHIỀU TRONG BA NĂM QUA</c.vietnamese>
+
+719
+00:45:30,477 --> 00:45:32,479
+<c.vietnamese>BỆNH ÁN VÀ THUỐC</c.vietnamese>
+
+720
+00:45:34,481 --> 00:45:37,734
+<c.vietnamese>HO NHIỀU TRONG BA NĂM QUA</c.vietnamese>
+
+721
+00:45:39,069 --> 00:45:42,990
+<c.vietnamese>Tôi nhớ mẹ cô bé viết trong bệnh án
+trước đây cô bé ho nhiều lắm.</c.vietnamese>
+
+722
+00:45:44,825 --> 00:45:46,493
+<c.vietnamese>Nếu vết sẹo là do bệnh lao,</c.vietnamese>
+
+723
+00:45:46,577 --> 00:45:49,121
+<c.vietnamese>thì cả X-quang lẫn chụp CT
+đều không dò thấy được.</c.vietnamese>
+
+724
+00:45:49,705 --> 00:45:51,832
+<c.vietnamese>May là túi phổi không bị tổn hại nặng.</c.vietnamese>
+
+725
+00:45:51,915 --> 00:45:55,836
+<c.vietnamese>Ta sẽ khâu khu vực bị rách,
+chèn ống dẫn lưu màng phổi xem thế nào.</c.vietnamese>
+
+726
+00:45:56,628 --> 00:45:58,881
+<c.vietnamese>- Được. Tiến hành thôi.
+- Ừ.</c.vietnamese>
+
+727
+00:46:00,048 --> 00:46:01,508
+<c.vietnamese>- Tôi giữ cho.
+- Ừ.</c.vietnamese>
+
+728
+00:46:21,403 --> 00:46:22,404
+<c.vietnamese>Xong rồi.</c.vietnamese>
+
+729
+00:46:26,909 --> 00:46:30,579
+<c.vietnamese>Bác sĩ Nam, tôi sẽ xem có rò khí không.
+Tiến hành thủ thuật Valsalva chậm rãi.</c.vietnamese>
+
+730
+00:46:30,662 --> 00:46:31,955
+<c.vietnamese>Được, tôi sẽ tiến hành.</c.vietnamese>
+
+731
+00:46:35,709 --> 00:46:37,211
+<c.vietnamese>May là không có rò khí.</c.vietnamese>
+
+732
+00:46:39,254 --> 00:46:41,381
+<c.vietnamese>Tôi sẽ kiểm xem có thông khí không.</c.vietnamese>
+
+733
+00:46:44,009 --> 00:46:46,053
+<c.vietnamese>Thể tích khí lưu thông ổn định.</c.vietnamese>
+
+734
+00:46:47,679 --> 00:46:49,765
+<c.vietnamese>Cảm ơn. Tôi sẽ băng bó lại.</c.vietnamese>
+
+735
+00:46:49,848 --> 00:46:51,350
+<c.vietnamese>Được. Chúc may mắn.</c.vietnamese>
+
+736
+00:46:53,519 --> 00:46:54,728
+<c.vietnamese>- Anh giữ giùm.
+- Vâng.</c.vietnamese>
+
+737
+00:46:58,357 --> 00:46:59,733
+<c.vietnamese>Kẹp và móc nâng Freer.</c.vietnamese>
+
+738
+00:47:40,566 --> 00:47:44,403
+<c.vietnamese><i>Ca mổ này không phải là tình huống sinh tử</i></c.vietnamese>
+
+739
+00:47:44,486 --> 00:47:47,364
+<c.vietnamese><i>cũng không phải phức tạp bất thường.</i></c.vietnamese>
+
+740
+00:47:48,365 --> 00:47:51,535
+<c.vietnamese><i>Nhưng nhìn lại thì nó là bước ngoặt</i>
+<i>trong cuộc đời chúng tôi.</i></c.vietnamese>
+
+741
+00:47:53,328 --> 00:47:54,454
+<c.vietnamese>Ống dẫn lưu JP.</c.vietnamese>
+
+742
+00:47:57,249 --> 00:47:58,333
+<c.vietnamese>Kẹp nữa.</c.vietnamese>
+
+743
+00:48:02,170 --> 00:48:04,923
+<c.vietnamese><i>Dường như Jeong Woo</i>
+<i>đã vượt qua mọi chuyện.</i></c.vietnamese>
+
+744
+00:48:08,260 --> 00:48:12,139
+<c.vietnamese><i>Và dường như cậu ấy</i>
+<i>đã tìm lại được vị trí của mình.</i></c.vietnamese>
+
+745
+00:48:14,933 --> 00:48:15,976
+<c.vietnamese><i>Nhìn lại thì,</i></c.vietnamese>
+
+746
+00:48:17,144 --> 00:48:18,895
+<c.vietnamese><i>thời điểm chúng tôi sụp đổ</i></c.vietnamese>
+
+747
+00:48:20,147 --> 00:48:21,898
+<c.vietnamese><i>chính là bước ngoặt trong đời.</i></c.vietnamese>
+
+748
+00:48:23,775 --> 00:48:26,194
+<c.vietnamese><i>Thời điểm chúng tôi tin đời mình tiêu rồi</i></c.vietnamese>
+
+749
+00:48:27,571 --> 00:48:29,031
+<c.vietnamese><i>lại mở ra khởi đầu mới.</i></c.vietnamese>
+
+750
+00:48:32,618 --> 00:48:35,537
+<c.vietnamese>Sáu tháng nữa sẽ mổ lần hai cho cô bé.</c.vietnamese>
+
+751
+00:48:35,621 --> 00:48:38,498
+<c.vietnamese>Nếu có chuyện gì thì báo cho tôi.</c.vietnamese>
+
+752
+00:48:39,916 --> 00:48:40,959
+<c.vietnamese>Cô làm tốt lắm.</c.vietnamese>
+
+753
+00:48:53,347 --> 00:48:56,767
+<c.vietnamese>Cảm ơn ạ. Các bạn sẽ không chọc cháu nữa.</c.vietnamese>
+
+754
+00:48:56,850 --> 00:48:58,101
+<c.vietnamese>Cảm ơn nhiều ạ.</c.vietnamese>
+
+755
+00:49:01,021 --> 00:49:02,522
+<c.vietnamese>Chú rất vui khi giúp được cháu.</c.vietnamese>
+
+756
+00:49:03,774 --> 00:49:04,816
+<c.vietnamese>May mắn ở trường nhé.</c.vietnamese>
+
+757
+00:49:07,069 --> 00:49:08,153
+<c.vietnamese>Cái này cho cháu.</c.vietnamese>
+
+758
+00:49:10,489 --> 00:49:11,531
+<c.vietnamese>Đây rồi!</c.vietnamese>
+
+759
+00:49:15,160 --> 00:49:16,745
+<c.vietnamese>- Trời, xinh quá.
+- Xinh quá!</c.vietnamese>
+
+760
+00:49:21,875 --> 00:49:25,087
+<c.vietnamese>Được rồi. Đã đến giờ bay.
+Cảm ơn anh chị vì tất cả.</c.vietnamese>
+
+761
+00:49:25,671 --> 00:49:26,672
+<c.vietnamese>Cảm ơn.</c.vietnamese>
+
+762
+00:49:28,465 --> 00:49:29,549
+<c.vietnamese>Cảm ơn rất nhiều.</c.vietnamese>
+
+763
+00:49:30,676 --> 00:49:31,677
+<c.vietnamese>Phải rồi. Đây.</c.vietnamese>
+
+764
+00:49:32,302 --> 00:49:33,303
+<c.vietnamese>Cảm ơn.</c.vietnamese>
+
+765
+00:49:35,097 --> 00:49:36,181
+<c.vietnamese>Chào nhé.</c.vietnamese>
+
+766
+00:49:43,814 --> 00:49:44,648
+<c.vietnamese>Giỏi lắm.</c.vietnamese>
+
+767
+00:49:44,731 --> 00:49:47,651
+<c.vietnamese>Cậu cũng thế. Tối nay ăn gì ngon ngon nhỉ?</c.vietnamese>
+
+768
+00:49:48,860 --> 00:49:51,697
+<c.vietnamese>Thật ra tớ phải đi chỗ này.</c.vietnamese>
+
+769
+00:49:52,489 --> 00:49:54,116
+<c.vietnamese>GÀ XIÊN NHỚ MÃI</c.vietnamese>
+
+770
+00:49:59,621 --> 00:50:01,790
+<c.vietnamese>Hôm nay ăn gà xiên hợp lắm.</c.vietnamese>
+
+771
+00:50:01,873 --> 00:50:03,834
+<c.vietnamese>Hay là… Đi thôi.</c.vietnamese>
+
+772
+00:50:09,631 --> 00:50:10,799
+<c.vietnamese>- Xin chào.
+- Xin chào.</c.vietnamese>
+
+773
+00:50:10,882 --> 00:50:11,967
+<c.vietnamese>Này, Jeong Woo!</c.vietnamese>
+
+774
+00:50:16,304 --> 00:50:17,472
+<c.vietnamese>Sao cậu đến đây vậy?</c.vietnamese>
+
+775
+00:50:17,973 --> 00:50:19,808
+<c.vietnamese>Đến gặp bọn tớ à?</c.vietnamese>
+
+776
+00:50:21,643 --> 00:50:25,605
+<c.vietnamese>Phải. Được không nào?
+Tớ đến xem các cậu nấu dở thế nào.</c.vietnamese>
+
+777
+00:50:26,189 --> 00:50:27,441
+<c.vietnamese>Cảm ơn, Jeong Woo.</c.vietnamese>
+
+778
+00:50:27,524 --> 00:50:29,234
+<c.vietnamese>Tớ không nghĩ cậu nhận lời xin lỗi.</c.vietnamese>
+
+779
+00:50:29,317 --> 00:50:32,863
+<c.vietnamese>Tớ nghĩ sẽ không được gặp cậu nữa
+và phải nhớ cậu cả đời!</c.vietnamese>
+
+780
+00:50:33,655 --> 00:50:34,865
+<c.vietnamese>Cậu bị sao vậy?</c.vietnamese>
+
+781
+00:50:36,825 --> 00:50:39,578
+<c.vietnamese>Sao không chào hỏi hay xin lỗi gì vậy?</c.vietnamese>
+
+782
+00:50:40,120 --> 00:50:42,831
+<c.vietnamese>Làm tổn thương tớ
+mà có thể ăn xiên gà vậy à?</c.vietnamese>
+
+783
+00:50:44,958 --> 00:50:47,794
+<c.vietnamese>"Ăn" đâu. Tớ chỉ nướng thôi mà.</c.vietnamese>
+
+784
+00:50:51,173 --> 00:50:52,174
+<c.vietnamese>Jeong Woo.</c.vietnamese>
+
+785
+00:50:53,175 --> 00:50:55,385
+<c.vietnamese>Tớ xin lỗi.</c.vietnamese>
+
+786
+00:50:56,803 --> 00:50:57,637
+<c.vietnamese>Tớ…</c.vietnamese>
+
+787
+00:50:58,680 --> 00:50:59,806
+<c.vietnamese>rất xin lỗi.</c.vietnamese>
+
+788
+00:51:12,360 --> 00:51:16,156
+<c.vietnamese>Nói thật, tớ tưởng
+cậu không muốn gặp bọn tớ nữa.</c.vietnamese>
+
+789
+00:51:16,239 --> 00:51:17,616
+<c.vietnamese>Ban đầu tớ định vậy đấy.</c.vietnamese>
+
+790
+00:51:18,533 --> 00:51:19,367
+<c.vietnamese>Nhưng mà này,</c.vietnamese>
+
+791
+00:51:20,202 --> 00:51:21,495
+<c.vietnamese>nếu từ mặt các cậu</c.vietnamese>
+
+792
+00:51:22,204 --> 00:51:23,997
+<c.vietnamese>thì đời tớ còn gì nữa.</c.vietnamese>
+
+793
+00:51:26,374 --> 00:51:28,251
+<c.vietnamese>Jeong Woo, tớ thật sự xin lỗi.</c.vietnamese>
+
+794
+00:51:28,752 --> 00:51:31,963
+<c.vietnamese>Bọn tớ sẽ bán nhiều xiên gà
+để trả lại doanh thu quảng cáo</c.vietnamese>
+
+795
+00:51:32,047 --> 00:51:33,340
+<c.vietnamese>mà bọn tớ ăn chặn.</c.vietnamese>
+
+796
+00:51:35,634 --> 00:51:36,843
+<c.vietnamese>Thật ra lúc đó,</c.vietnamese>
+
+797
+00:51:37,886 --> 00:51:39,638
+<c.vietnamese>bạn gái tớ có bầu rồi,</c.vietnamese>
+
+798
+00:51:40,847 --> 00:51:43,558
+<c.vietnamese>mẹ tớ thì tái phát ung thư tuyến giáp.</c.vietnamese>
+
+799
+00:51:44,976 --> 00:51:47,103
+<c.vietnamese>Lúc đó tớ cần tiền quá.</c.vietnamese>
+
+800
+00:51:48,188 --> 00:51:50,065
+<c.vietnamese>Có lẽ vì vậy mà tớ đã mất trí.</c.vietnamese>
+
+801
+00:51:50,649 --> 00:51:53,109
+<c.vietnamese>Này, giờ mẹ cậu ổn chứ?</c.vietnamese>
+
+802
+00:51:54,027 --> 00:51:56,154
+<c.vietnamese>Ừ, phẫu thuật lần hai ổn cả.</c.vietnamese>
+
+803
+00:51:56,655 --> 00:51:58,031
+<c.vietnamese>Và tớ sắp có con trai nữa.</c.vietnamese>
+
+804
+00:51:58,114 --> 00:51:59,324
+<c.vietnamese>Nhẹ lòng rồi.</c.vietnamese>
+
+805
+00:52:00,116 --> 00:52:03,745
+<c.vietnamese>Mà cậu thế nào rồi?
+Cậu và Ha Neul có gì à?</c.vietnamese>
+
+806
+00:52:04,621 --> 00:52:06,414
+<c.vietnamese>- Ý cậu là sao?
+- Hai cậu cùng đến</c.vietnamese>
+
+807
+00:52:06,498 --> 00:52:09,167
+<c.vietnamese>quán của Min Ho vào hôm họp lớp.</c.vietnamese>
+
+808
+00:52:09,251 --> 00:52:13,630
+<c.vietnamese>Rồi gần đây cậu ấy gọi
+bảo tớ phải xin lỗi cậu.</c.vietnamese>
+
+809
+00:52:14,214 --> 00:52:15,465
+<c.vietnamese>Hai cậu hẹn hò hả?</c.vietnamese>
+
+810
+00:52:16,299 --> 00:52:17,425
+<c.vietnamese>Nói thật là…</c.vietnamese>
+
+811
+00:52:17,509 --> 00:52:18,343
+<c.vietnamese>Trời ạ.</c.vietnamese>
+
+812
+00:52:18,426 --> 00:52:21,513
+<c.vietnamese>Này, muốn cậu ấy từ mặt
+sau khi vừa tha thứ à?</c.vietnamese>
+
+813
+00:52:21,596 --> 00:52:22,973
+<c.vietnamese>Nói năng cho cẩn thận.</c.vietnamese>
+
+814
+00:52:23,056 --> 00:52:25,809
+<c.vietnamese>Jeong Woo có điên
+mới hẹn hò Ha Neul kinh khủng đó.</c.vietnamese>
+
+815
+00:52:25,892 --> 00:52:26,935
+<c.vietnamese>Này.</c.vietnamese>
+
+816
+00:52:27,018 --> 00:52:28,603
+<c.vietnamese>Cho cháu xin cái ly.</c.vietnamese>
+
+817
+00:52:29,729 --> 00:52:30,647
+<c.vietnamese>Chào Chan Yeong.</c.vietnamese>
+
+818
+00:52:31,439 --> 00:52:32,440
+<c.vietnamese>Chào Ha Neul.</c.vietnamese>
+
+819
+00:52:33,483 --> 00:52:35,735
+<c.vietnamese>Mà sao cậu lại đến đây?</c.vietnamese>
+
+820
+00:52:36,403 --> 00:52:37,696
+<c.vietnamese>Tớ mời cậu ấy đến.</c.vietnamese>
+
+821
+00:52:37,779 --> 00:52:39,781
+<c.vietnamese>Bọn tớ đang hẹn hò.</c.vietnamese>
+
+822
+00:52:39,865 --> 00:52:40,991
+<c.vietnamese>- Gì?
+- Thật hả?</c.vietnamese>
+
+823
+00:52:41,074 --> 00:52:42,868
+<c.vietnamese>Cậu có làm sai gì à?</c.vietnamese>
+
+824
+00:52:42,951 --> 00:52:46,204
+<c.vietnamese>Ý bọn tớ là, chuyện gì thế này?</c.vietnamese>
+
+825
+00:52:46,288 --> 00:52:48,665
+<c.vietnamese>Hồi đi học,
+hai cậu không đội trời chung mà.</c.vietnamese>
+
+826
+00:52:48,748 --> 00:52:50,125
+<c.vietnamese>- Sao vậy?
+- Thành ra vậy đó.</c.vietnamese>
+
+827
+00:52:50,208 --> 00:52:51,042
+<c.vietnamese>"Thành ra" à?</c.vietnamese>
+
+828
+00:52:51,793 --> 00:52:53,003
+<c.vietnamese>Cậu xinh quá.</c.vietnamese>
+
+829
+00:52:53,545 --> 00:52:54,379
+<c.vietnamese>Hai cậu này.</c.vietnamese>
+
+830
+00:52:55,005 --> 00:52:57,382
+<c.vietnamese>Tớ không đến vì nhớ hai cậu đâu.</c.vietnamese>
+
+831
+00:52:57,465 --> 00:53:00,343
+<c.vietnamese>Tớ đã thấy hai cậu
+đối xử thế nào với Jeong Woo.</c.vietnamese>
+
+832
+00:53:00,427 --> 00:53:02,637
+<c.vietnamese>Tớ chỉ gọi để bảo cậu xin lỗi cậu ấy,</c.vietnamese>
+
+833
+00:53:02,721 --> 00:53:05,181
+<c.vietnamese>nên tớ không vui
+khi cậu ấy ngồi uống với hai cậu.</c.vietnamese>
+
+834
+00:53:05,265 --> 00:53:08,935
+<c.vietnamese>Nhưng tớ đến đây để nói
+là hai cậu phải hối lỗi cả đời vì việc</c.vietnamese>
+
+835
+00:53:09,019 --> 00:53:10,437
+<c.vietnamese>đã làm với cậu ấy. Rõ chưa?</c.vietnamese>
+
+836
+00:53:10,520 --> 00:53:11,438
+<c.vietnamese>- Rõ rồi.
+- Rõ rồi.</c.vietnamese>
+
+837
+00:53:12,689 --> 00:53:14,316
+<c.vietnamese>Mà cậu vừa nói gì nhỉ?</c.vietnamese>
+
+838
+00:53:14,399 --> 00:53:17,277
+<c.vietnamese>"Jeong Woo có điên
+mới hẹn hò Ha Neul kinh khủng đó" hả?</c.vietnamese>
+
+839
+00:53:17,944 --> 00:53:19,321
+<c.vietnamese>Muốn thấy tớ kinh khủng à?</c.vietnamese>
+
+840
+00:53:19,404 --> 00:53:21,698
+<c.vietnamese>Phải rồi.
+Cái thằng cứ phải viết thư xin lỗi</c.vietnamese>
+
+841
+00:53:21,781 --> 00:53:23,617
+<c.vietnamese>vì bám theo cậu ấy mà nói vậy đấy.</c.vietnamese>
+
+842
+00:53:23,700 --> 00:53:25,577
+<c.vietnamese>- Trời ạ.
+- Nói vậy là sao?</c.vietnamese>
+
+843
+00:53:25,660 --> 00:53:27,579
+<c.vietnamese>- Ai bám theo ai?
+- Chan Yeong.</c.vietnamese>
+
+844
+00:53:27,662 --> 00:53:28,663
+<c.vietnamese>Nghe này.</c.vietnamese>
+
+845
+00:53:28,747 --> 00:53:31,041
+<c.vietnamese>Đâu có gì nghiêm túc.</c.vietnamese>
+
+846
+00:53:31,124 --> 00:53:33,960
+<c.vietnamese>Chỉ là kỉ niệm tuổi trẻ ấy mà.</c.vietnamese>
+
+847
+00:53:34,044 --> 00:53:35,337
+<c.vietnamese>Vậy thôi.</c.vietnamese>
+
+848
+00:53:36,713 --> 00:53:39,007
+<c.vietnamese>"Chỉ là kỉ niệm"?</c.vietnamese>
+
+849
+00:53:39,090 --> 00:53:41,217
+<c.vietnamese>Tại sao? Sai gì nhỉ?</c.vietnamese>
+
+850
+00:53:42,218 --> 00:53:45,513
+<c.vietnamese>Mình luyện nó ba ngày rồi, tại sao vẫn bí?</c.vietnamese>
+
+851
+00:53:45,597 --> 00:53:47,307
+<c.vietnamese>Làm sao giải nhỉ?</c.vietnamese>
+
+852
+00:53:47,390 --> 00:53:50,060
+<c.vietnamese>Làm mình phát điên mất. Cách nào cũng bí.</c.vietnamese>
+
+853
+00:53:50,143 --> 00:53:52,646
+<c.vietnamese>Mình toi rồi! Không vào được đại học mất!</c.vietnamese>
+
+854
+00:54:13,041 --> 00:54:14,292
+<c.vietnamese>Được rồi, nhìn này.</c.vietnamese>
+
+855
+00:54:14,960 --> 00:54:17,295
+<c.vietnamese>Đây là hàm số.</c.vietnamese>
+
+856
+00:54:17,379 --> 00:54:20,090
+<c.vietnamese>Chỉ cần tìm vi phân
+và lấy nó thay cho cái này.</c.vietnamese>
+
+857
+00:54:20,674 --> 00:54:22,759
+<c.vietnamese>Trời, cậu ồn ào quá đi mất.</c.vietnamese>
+
+858
+00:54:28,556 --> 00:54:29,599
+<c.vietnamese>Này, Ha Neul.</c.vietnamese>
+
+859
+00:54:29,683 --> 00:54:32,143
+<c.vietnamese>Cậu thích cốt lết Pikachu không?
+Tớ mua cho cậu.</c.vietnamese>
+
+860
+00:54:33,061 --> 00:54:35,772
+<c.vietnamese>Hay là cốt lết với mù tạt và tương</c.vietnamese>
+
+861
+00:54:35,855 --> 00:54:36,982
+<c.vietnamese>kèm với soda? Nhé?</c.vietnamese>
+
+862
+00:54:39,859 --> 00:54:41,736
+<c.vietnamese>Tớ nói thật nhé, Ha Neul.</c.vietnamese>
+
+863
+00:54:41,820 --> 00:54:43,947
+<c.vietnamese>Tớ nghĩ cậu xinh nhất trường đấy.</c.vietnamese>
+
+864
+00:54:44,406 --> 00:54:48,034
+<c.vietnamese>Khi cậu mới chuyển đến,
+tớ đã nghĩ cậu là nữ thần.</c.vietnamese>
+
+865
+00:54:48,660 --> 00:54:51,830
+<c.vietnamese>Cậu là học bá xinh nhất tớ từng gặp.</c.vietnamese>
+
+866
+00:54:51,913 --> 00:54:53,832
+<c.vietnamese>Không, đơn giản là xinh nhất thôi.</c.vietnamese>
+
+867
+00:54:53,915 --> 00:54:55,125
+<c.vietnamese>Cậu xinh quá là xinh.</c.vietnamese>
+
+868
+00:54:55,208 --> 00:54:59,337
+<c.vietnamese>Em là học sinh ngốc nhất thầy từng dạy.</c.vietnamese>
+
+869
+00:54:59,421 --> 00:55:01,214
+<c.vietnamese>Cốt lết Pikachu cái con khỉ.</c.vietnamese>
+
+870
+00:55:01,297 --> 00:55:03,591
+<c.vietnamese>Này, em bị sốc bởi Pikachu hay gì?</c.vietnamese>
+
+871
+00:55:03,675 --> 00:55:04,968
+<c.vietnamese>Thầy Han, để em giải thích.</c.vietnamese>
+
+872
+00:55:05,051 --> 00:55:08,096
+<c.vietnamese>Ha Neul, để thầy xử lý con Pikachu này.
+Em cứ học đi.</c.vietnamese>
+
+873
+00:55:08,179 --> 00:55:09,639
+<c.vietnamese>- Chào nhé.
+- Cảm ơn thầy.</c.vietnamese>
+
+874
+00:55:09,723 --> 00:55:10,557
+<c.vietnamese>Thầy ơi!</c.vietnamese>
+
+875
+00:55:10,640 --> 00:55:13,560
+<c.vietnamese>- Qua đây.
+- Hẹn gặp cậu ở quầy ăn vặt nhé!</c.vietnamese>
+
+876
+00:55:17,147 --> 00:55:18,023
+<c.vietnamese>Cậu hiểu lầm rồi.</c.vietnamese>
+
+877
+00:55:18,606 --> 00:55:20,191
+<c.vietnamese>Không phải vậy đâu.</c.vietnamese>
+
+878
+00:55:20,275 --> 00:55:23,069
+<c.vietnamese>Có một bài toán
+tớ vật lộn mấy ngày không xong.</c.vietnamese>
+
+879
+00:55:23,153 --> 00:55:27,240
+<c.vietnamese>Rồi cậu ấy giải giúp
+nên tớ thấy cảm động thôi.</c.vietnamese>
+
+880
+00:55:27,323 --> 00:55:29,701
+<c.vietnamese>Này. Tớ làm vậy vì tớ, đâu phải vì cậu.</c.vietnamese>
+
+881
+00:55:29,784 --> 00:55:34,414
+<c.vietnamese>Cậu cứ lẩm bẩm làm tớ không học được
+nên tớ mới giải giúp cho đấy.</c.vietnamese>
+
+882
+00:55:36,332 --> 00:55:39,377
+<c.vietnamese>Đúng rồi.
+Cậu ấy không bao giờ giải bài giùm ai.</c.vietnamese>
+
+883
+00:55:40,295 --> 00:55:44,466
+<c.vietnamese>Thế mà lúc nào cũng nói xấu cậu ấy,
+sao mà lươn lẹo quá vậy?</c.vietnamese>
+
+884
+00:55:46,634 --> 00:55:50,221
+<c.vietnamese>Thôi nào. Tớ biết là tớ có lỗi với cậu,
+nhưng nói cho đúng sự thật đi.</c.vietnamese>
+
+885
+00:55:50,305 --> 00:55:53,308
+<c.vietnamese>Toàn là cậu nói xấu cậu ấy.
+Bọn tớ hùa theo thôi mà.</c.vietnamese>
+
+886
+00:55:58,146 --> 00:56:00,356
+<c.vietnamese>Cậu mất trí thật rồi!</c.vietnamese>
+
+887
+00:56:01,107 --> 00:56:02,484
+<c.vietnamese>Tớ làm vậy khi nào?</c.vietnamese>
+
+888
+00:56:02,567 --> 00:56:03,568
+<c.vietnamese>Chắc là mỗi ngày.</c.vietnamese>
+
+889
+00:56:03,651 --> 00:56:06,488
+<c.vietnamese>Cậu thấy ghét
+vì cậu ấy điên lên với việc học.</c.vietnamese>
+
+890
+00:56:06,571 --> 00:56:08,573
+<c.vietnamese>- Phải.
+- Cậu không muốn ở gần cậu ấy.</c.vietnamese>
+
+891
+00:56:08,656 --> 00:56:11,201
+<c.vietnamese>- Còn ước gì cậu ấy bị kẹt chân vào cửa.
+- Phải.</c.vietnamese>
+
+892
+00:56:11,284 --> 00:56:12,202
+<c.vietnamese>Còn gì nữa nhỉ?</c.vietnamese>
+
+893
+00:56:12,285 --> 00:56:14,245
+<c.vietnamese>Lúc cậu ấy giải được phương trình ấy…</c.vietnamese>
+
+894
+00:56:14,329 --> 00:56:15,580
+<c.vietnamese>Nói ra thấy ngại luôn ấy.</c.vietnamese>
+
+895
+00:56:16,164 --> 00:56:17,957
+<c.vietnamese>Này, Ha Neul đáng ghét quá nhỉ?</c.vietnamese>
+
+896
+00:56:18,041 --> 00:56:19,501
+<c.vietnamese>- Phải.
+- Chắc chắn luôn.</c.vietnamese>
+
+897
+00:56:19,584 --> 00:56:22,128
+<c.vietnamese>Nói thật,
+tớ giỏi giải tích hơn cậu ấy nhỉ?</c.vietnamese>
+
+898
+00:56:22,212 --> 00:56:23,797
+<c.vietnamese>- Phải.
+- Không chỉ giải tích.</c.vietnamese>
+
+899
+00:56:23,880 --> 00:56:24,798
+<c.vietnamese>Nói quá chuẩn.</c.vietnamese>
+
+900
+00:56:24,881 --> 00:56:26,800
+<c.vietnamese>Tên đệm của cậu là "Giải tích" mà.</c.vietnamese>
+
+901
+00:56:33,807 --> 00:56:34,641
+<c.vietnamese>Không đúng đâu.</c.vietnamese>
+
+902
+00:56:35,225 --> 00:56:36,518
+<c.vietnamese>Không có đâu mà.</c.vietnamese>
+
+903
+00:56:36,601 --> 00:56:37,435
+<c.vietnamese>Này.</c.vietnamese>
+
+904
+00:56:39,604 --> 00:56:41,356
+<c.vietnamese>Trời ạ!</c.vietnamese>
+
+905
+00:56:41,439 --> 00:56:44,067
+<c.vietnamese>Hồi đó ta ấu trĩ quá nhỉ?</c.vietnamese>
+
+906
+00:56:44,150 --> 00:56:45,568
+<c.vietnamese>Phải, đều non nớt quá mà.</c.vietnamese>
+
+907
+00:56:45,652 --> 00:56:48,029
+<c.vietnamese>Nên quên chuyện
+tớ thích cậu trong giây lát đi.</c.vietnamese>
+
+908
+00:56:48,113 --> 00:56:49,239
+<c.vietnamese>- Nhé.
+- Nhé.</c.vietnamese>
+
+909
+00:56:49,322 --> 00:56:52,826
+<c.vietnamese>Thật tình, hồi đó
+đám con trai ai cũng từng thích cậu ấy.</c.vietnamese>
+
+910
+00:56:52,909 --> 00:56:57,080
+<c.vietnamese>Uk Ryeol bên câu lạc bộ báo chí này,
+cả Seok Pil ở đội bóng chày nữa.</c.vietnamese>
+
+911
+00:56:57,789 --> 00:57:01,334
+<c.vietnamese>- Ha Neul nổi thế à?
+- Nói thừa.</c.vietnamese>
+
+912
+00:57:09,634 --> 00:57:11,386
+<c.vietnamese>Tớ phạm sai lầm gì à?</c.vietnamese>
+
+913
+00:57:12,428 --> 00:57:13,263
+<c.vietnamese>Ý cậu là sao?</c.vietnamese>
+
+914
+00:57:13,346 --> 00:57:14,722
+<c.vietnamese>Ý tớ là,</c.vietnamese>
+
+915
+00:57:14,806 --> 00:57:18,351
+<c.vietnamese>tớ chỉ gọi Mu Geun
+để cậu ấy xin lỗi cậu cho đàng hoàng.</c.vietnamese>
+
+916
+00:57:18,434 --> 00:57:19,811
+<c.vietnamese>Có lẽ tớ làm quá rồi.</c.vietnamese>
+
+917
+00:57:22,897 --> 00:57:24,065
+<c.vietnamese>Cậu làm tốt lắm.</c.vietnamese>
+
+918
+00:57:24,149 --> 00:57:28,486
+<c.vietnamese>Mỗi lần có bài báo mới về tớ,</c.vietnamese>
+
+919
+00:57:28,570 --> 00:57:30,488
+<c.vietnamese>tớ đều không kìm được mà đọc bình luận</c.vietnamese>
+
+920
+00:57:31,448 --> 00:57:33,032
+<c.vietnamese>dù biết là không nên.</c.vietnamese>
+
+921
+00:57:34,492 --> 00:57:38,037
+<c.vietnamese>Và có một người luôn bình luận bảo vệ tớ.</c.vietnamese>
+
+922
+00:57:39,122 --> 00:57:40,290
+<c.vietnamese>Là Mu Geun đấy.</c.vietnamese>
+
+923
+00:57:40,832 --> 00:57:41,666
+<c.vietnamese>Thật hả?</c.vietnamese>
+
+924
+00:57:41,749 --> 00:57:43,126
+<c.vietnamese>Khi nhìn thấy thế, tớ nghĩ,</c.vietnamese>
+
+925
+00:57:43,793 --> 00:57:47,005
+<c.vietnamese>"Phải, mình nên bắt đầu
+tha thứ cho mọi người</c.vietnamese>
+
+926
+00:57:48,006 --> 00:57:50,091
+<c.vietnamese>và sống đời lạc quan". </c.vietnamese>
+
+927
+00:57:50,175 --> 00:57:51,551
+<c.vietnamese>Vừa lúc đó cậu gọi cậu ấy.</c.vietnamese>
+
+928
+00:57:53,052 --> 00:57:53,887
+<c.vietnamese>Ra vậy.</c.vietnamese>
+
+929
+00:57:54,512 --> 00:57:55,346
+<c.vietnamese>Nhưng mà…</c.vietnamese>
+
+930
+00:57:56,014 --> 00:57:59,684
+<c.vietnamese>tớ sợ là hôm nay tớ nghe quá nhiều thứ
+tới mức khó mà lạc quan.</c.vietnamese>
+
+931
+00:58:00,810 --> 00:58:03,980
+<c.vietnamese>Tớ chẳng biết
+bạn gái mình từng nổi vậy đấy.</c.vietnamese>
+
+932
+00:58:04,063 --> 00:58:09,027
+<c.vietnamese>À… Đúng vậy mà.
+Thỉnh thoảng lại có cậu rủ tớ đi chơi.</c.vietnamese>
+
+933
+00:58:09,110 --> 00:58:10,361
+<c.vietnamese>Hình như là</c.vietnamese>
+
+934
+00:58:10,987 --> 00:58:12,322
+<c.vietnamese>cứ mỗi kỳ một lần.</c.vietnamese>
+
+935
+00:58:14,324 --> 00:58:16,951
+<c.vietnamese>Trời ạ, cậu nổi thật đấy.</c.vietnamese>
+
+936
+00:58:17,035 --> 00:58:20,580
+<c.vietnamese>Vậy cậu chưa bao giờ hẹn hò
+vì bận học và làm à?</c.vietnamese>
+
+937
+00:58:21,372 --> 00:58:22,665
+<c.vietnamese>"Chưa bao giờ hẹn hò" á?</c.vietnamese>
+
+938
+00:58:22,749 --> 00:58:24,709
+<c.vietnamese>Ba Da nói cậu lúc nào cũng một mình.</c.vietnamese>
+
+939
+00:58:24,792 --> 00:58:27,212
+<c.vietnamese>Không đúng.
+Tớ đã bảo là tớ từng hẹn hò mà.</c.vietnamese>
+
+940
+00:58:27,795 --> 00:58:28,963
+<c.vietnamese>Thật hả?</c.vietnamese>
+
+941
+00:58:29,047 --> 00:58:30,840
+<c.vietnamese>- Ừ, dĩ nhiên.
+- Với ai vậy?</c.vietnamese>
+
+942
+00:58:30,924 --> 00:58:33,927
+<c.vietnamese>Một cậu gần nhà bám đuôi tớ suốt ba năm.</c.vietnamese>
+
+943
+00:58:34,010 --> 00:58:35,887
+<c.vietnamese>- Khi nào?
+- Hồi năm nhất đại học.</c.vietnamese>
+
+944
+00:58:36,471 --> 00:58:39,307
+<c.vietnamese>Tớ cảm thấy
+vào đại học là trưởng thành rồi,</c.vietnamese>
+
+945
+00:58:39,390 --> 00:58:41,809
+<c.vietnamese>nên muốn thử hẹn hò, nhưng mà…</c.vietnamese>
+
+946
+00:58:41,893 --> 00:58:43,895
+<c.vietnamese>- Nhưng sao?
+- Chia tay sau năm tiếng.</c.vietnamese>
+
+947
+00:58:44,562 --> 00:58:46,022
+<c.vietnamese>Học vui hơn.</c.vietnamese>
+
+948
+00:58:47,023 --> 00:58:47,941
+<c.vietnamese>Trời ạ.</c.vietnamese>
+
+949
+00:58:48,024 --> 00:58:50,527
+<c.vietnamese>Cứ mỗi kỳ lại có người rủ cậu đi chơi,</c.vietnamese>
+
+950
+00:58:50,610 --> 00:58:53,655
+<c.vietnamese>vậy gã đó có gì đặc biệt mà cậu nhận lời?</c.vietnamese>
+
+951
+00:58:56,908 --> 00:58:59,202
+<c.vietnamese>Một tối nọ trời đổ lạnh.</c.vietnamese>
+
+952
+00:59:01,371 --> 00:59:03,289
+<c.vietnamese>Cậu ấy đưa áo khoác cho tớ.</c.vietnamese>
+
+953
+00:59:05,500 --> 00:59:06,709
+<c.vietnamese>- Vậy thôi à?
+- Ừ.</c.vietnamese>
+
+954
+00:59:06,793 --> 00:59:08,336
+<c.vietnamese>- Không còn gì nữa?
+- Ừ.</c.vietnamese>
+
+955
+00:59:10,713 --> 00:59:12,173
+<c.vietnamese>- Ha Neul à.
+- Gì?</c.vietnamese>
+
+956
+00:59:12,257 --> 00:59:13,841
+<c.vietnamese>Tớ có thể làm tốt hơn nhiều.</c.vietnamese>
+
+957
+00:59:14,759 --> 00:59:17,262
+<c.vietnamese>- Tớ cởi áo quần giỏi hơn.
+- Ý cậu là sao?</c.vietnamese>
+
+958
+00:59:17,345 --> 00:59:18,846
+<c.vietnamese>Tớ nghiêm túc đấy.</c.vietnamese>
+
+959
+00:59:18,930 --> 00:59:20,974
+<c.vietnamese>- Sao nào? Tớ cởi cái này nhé?
+- Không.</c.vietnamese>
+
+960
+00:59:21,057 --> 00:59:22,892
+<c.vietnamese>- Cởi nhé? Ha Neul.
+- Trời, mặc lại đi.</c.vietnamese>
+
+961
+00:59:22,976 --> 00:59:24,394
+<c.vietnamese><i>Hẹn hò không tuyệt à?</i></c.vietnamese>
+
+962
+00:59:25,270 --> 00:59:26,688
+<c.vietnamese><i>Đôi khi em thật trẻ con.</i></c.vietnamese>
+
+963
+00:59:28,731 --> 00:59:31,192
+<c.vietnamese><i>Đôi khi những điều nhỏ nhặt</i>
+<i>ảnh hưởng đến em.</i></c.vietnamese>
+
+964
+00:59:31,276 --> 00:59:34,862
+<c.vietnamese><i>Nhưng em không muốn bị ảnh hưởng.</i>
+<i>Phải không, Hong Ran?</i></c.vietnamese>
+
+965
+00:59:35,947 --> 00:59:37,782
+<c.vietnamese><i>Em không muốn bị tổn thương lần nữa.</i></c.vietnamese>
+
+966
+00:59:38,575 --> 00:59:41,160
+<c.vietnamese><i>Nhưng anh sẽ không làm em tổn thương.</i>
+<i>Anh sẽ…</i></c.vietnamese>
+
+967
+00:59:41,244 --> 00:59:42,704
+<c.vietnamese>BẠN CÓ TIN NHẮN MỚI</c.vietnamese>
+
+968
+00:59:42,787 --> 00:59:43,788
+<c.vietnamese>CON GÁI</c.vietnamese>
+
+969
+00:59:43,871 --> 00:59:46,833
+<c.vietnamese><i>Bố, con sẽ về nhà sớm.</i>
+<i>Gọi </i>malatang<i> cho con đi.</i></c.vietnamese>
+
+970
+00:59:49,544 --> 00:59:52,171
+<c.vietnamese>HONG RAN</c.vietnamese>
+
+971
+00:59:52,255 --> 00:59:54,632
+<c.vietnamese><i>Anh sẽ chỉ làm em hạnh phúc.</i></c.vietnamese>
+
+972
+00:59:56,050 --> 00:59:57,468
+<c.vietnamese>Thế này có sến quá không?</c.vietnamese>
+
+973
+01:00:07,478 --> 01:00:10,231
+<c.vietnamese><i>Bố ơi, đổi sang gọi </i>tteokbokki<i> đi.</i></c.vietnamese>
+
+974
+01:00:11,858 --> 01:00:14,777
+<c.vietnamese>"Hong Ran,</c.vietnamese>
+
+975
+01:00:15,778 --> 01:00:17,905
+<c.vietnamese>anh khác với</c.vietnamese>
+
+976
+01:00:19,032 --> 01:00:20,199
+<c.vietnamese>chồng cũ của em".</c.vietnamese>
+
+977
+01:00:21,743 --> 01:00:23,494
+<c.vietnamese><i>Loại cay nhất có phô mai ấy.</i></c.vietnamese>
+
+978
+01:00:25,997 --> 01:00:27,999
+<c.vietnamese><i>Anh không thể buông tay em thế này.</i></c.vietnamese>
+
+979
+01:00:29,751 --> 01:00:32,045
+<c.vietnamese>- Thôi nào.
+<i>- Thêm mấy mì ly nữa.</i></c.vietnamese>
+
+980
+01:00:33,171 --> 01:00:34,714
+<c.vietnamese><i>Anh thật sự thích em, Hong Ran.</i></c.vietnamese>
+
+981
+01:00:35,298 --> 01:00:36,424
+<c.vietnamese><i>Hãy chấp nhận anh nhé.</i></c.vietnamese>
+
+982
+01:00:36,924 --> 01:00:38,384
+<c.vietnamese>CON GÁI</c.vietnamese>
+
+983
+01:00:48,728 --> 01:00:49,896
+<c.vietnamese>Khoan!</c.vietnamese>
+
+984
+01:00:49,979 --> 01:00:51,147
+<c.vietnamese>Xóa.</c.vietnamese>
+
+985
+01:00:52,190 --> 01:00:54,484
+<c.vietnamese>Chết tiệt!</c.vietnamese>
+
+986
+01:00:55,818 --> 01:00:57,654
+<c.vietnamese>Mình làm gì… Sao…</c.vietnamese>
+
+987
+01:01:01,157 --> 01:01:03,034
+<c.vietnamese>Eun Jeong à…</c.vietnamese>
+
+988
+01:01:03,117 --> 01:01:04,952
+<c.vietnamese>Để bố giải thích.</c.vietnamese>
+
+989
+01:01:05,036 --> 01:01:06,454
+<c.vietnamese>Gọi <i>tteokbokki</i> đã.</c.vietnamese>
+
+990
+01:01:06,537 --> 01:01:09,582
+<c.vietnamese>Con muốn loại cay nhất
+có phô mai và cà rốt chứ gì?</c.vietnamese>
+
+991
+01:01:09,666 --> 01:01:11,167
+<c.vietnamese>- Không, cà tím và nấm…
+- Bố.</c.vietnamese>
+
+992
+01:01:11,250 --> 01:01:12,335
+<c.vietnamese>Sao?</c.vietnamese>
+
+993
+01:01:12,919 --> 01:01:14,212
+<c.vietnamese>Bố thích cô nào à?</c.vietnamese>
+
+994
+01:01:16,589 --> 01:01:17,423
+<c.vietnamese>Phải.</c.vietnamese>
+
+995
+01:01:18,007 --> 01:01:21,010
+<c.vietnamese>Cô "Hong Ran" này
+mua bánh macaron cho con à?</c.vietnamese>
+
+996
+01:01:22,428 --> 01:01:24,263
+<c.vietnamese>Sao con biết.</c.vietnamese>
+
+997
+01:01:25,848 --> 01:01:28,893
+<c.vietnamese>Con biết bố đâu bắt trend
+đủ để mua mấy thứ đó.</c.vietnamese>
+
+998
+01:01:29,936 --> 01:01:32,772
+<c.vietnamese>Cô ấy giúp bố mua đồ lót cho con,</c.vietnamese>
+
+999
+01:01:33,773 --> 01:01:35,525
+<c.vietnamese>bảo bố tăng tiền tiêu vặt cho con à?</c.vietnamese>
+
+1000
+01:01:36,567 --> 01:01:37,402
+<c.vietnamese>Phải.</c.vietnamese>
+
+1001
+01:01:38,528 --> 01:01:39,362
+<c.vietnamese>Bố.</c.vietnamese>
+
+1002
+01:01:40,238 --> 01:01:42,782
+<c.vietnamese>Rủ đi hẹn hò thì nói trực tiếp mới ngầu.</c.vietnamese>
+
+1003
+01:01:43,449 --> 01:01:44,283
+<c.vietnamese>Gì đây?</c.vietnamese>
+
+1004
+01:01:44,367 --> 01:01:48,246
+<c.vietnamese>Mặc bộ đồ đẹp nhất,
+dùng sữa dưỡng thơm nhất rồi đi gặp cô ấy.</c.vietnamese>
+
+1005
+01:01:48,913 --> 01:01:50,581
+<c.vietnamese>Đừng đi tay không.</c.vietnamese>
+
+1006
+01:01:51,374 --> 01:01:53,960
+<c.vietnamese>Vây, bố nên đem theo gì?</c.vietnamese>
+
+1007
+01:01:55,920 --> 01:01:57,964
+<c.vietnamese>Mua tặng cô ấy bó hoa.</c.vietnamese>
+
+1008
+01:01:58,047 --> 01:02:00,717
+<c.vietnamese>Đừng mua bó to quá. Loại nhỏ thôi.</c.vietnamese>
+
+1009
+01:02:00,800 --> 01:02:01,634
+<c.vietnamese>Phớt tỉnh vào.</c.vietnamese>
+
+1010
+01:02:01,718 --> 01:02:04,053
+<c.vietnamese>Được rồi. Phớt tỉnh hả?</c.vietnamese>
+
+1011
+01:02:05,138 --> 01:02:07,056
+<c.vietnamese>Nhanh đi. Phải hành động ngay khi chốt.</c.vietnamese>
+
+1012
+01:02:07,140 --> 01:02:08,391
+<c.vietnamese>Được rồi.</c.vietnamese>
+
+1013
+01:02:09,016 --> 01:02:10,643
+<c.vietnamese>Vậy bố diện đồ đã. Được chứ?</c.vietnamese>
+
+1014
+01:02:16,232 --> 01:02:18,693
+<c.vietnamese><i>Hong Ran, ta gặp nhau chút được không?</i></c.vietnamese>
+
+1015
+01:02:22,447 --> 01:02:23,906
+<c.vietnamese><i>Muộn thế này á? Tại sao?</i></c.vietnamese>
+
+1016
+01:02:26,701 --> 01:02:29,829
+<c.vietnamese><i>Anh có chuyện muốn nói với em ngay.</i></c.vietnamese>
+
+1017
+01:02:33,458 --> 01:02:34,625
+<c.vietnamese><i>Chuyện gì thế?</i></c.vietnamese>
+
+1018
+01:02:39,005 --> 01:02:40,757
+<c.vietnamese><i>Gặp rồi em sẽ biết.</i></c.vietnamese>
+
+1019
+01:02:55,188 --> 01:02:56,272
+<c.vietnamese>Hong Ran.</c.vietnamese>
+
+1020
+01:03:12,538 --> 01:03:13,998
+<c.vietnamese>Trời ạ, anh xin lỗi.</c.vietnamese>
+
+1021
+01:03:14,665 --> 01:03:17,001
+<c.vietnamese>Anh bảo gặp rồi sẽ biết, nhưng anh vừa…</c.vietnamese>
+
+1022
+01:03:18,252 --> 01:03:19,921
+<c.vietnamese>Anh định nói gì với em?</c.vietnamese>
+
+1023
+01:03:20,505 --> 01:03:21,506
+<c.vietnamese>À…</c.vietnamese>
+
+1024
+01:03:23,674 --> 01:03:26,511
+<c.vietnamese>Cứ uống đi, đừng lo say nguội.</c.vietnamese>
+
+1025
+01:03:26,594 --> 01:03:29,180
+<c.vietnamese>- Cứ sống cho hôm nay.
+- Gì cơ?</c.vietnamese>
+
+1026
+01:03:29,263 --> 01:03:31,557
+<c.vietnamese>Em cầm được ly rượu của em,
+vậy sao em lại lo?</c.vietnamese>
+
+1027
+01:03:31,641 --> 01:03:33,309
+<c.vietnamese>Anh có thể là đồ giải rượu cho em.</c.vietnamese>
+
+1028
+01:03:35,561 --> 01:03:36,729
+<c.vietnamese>Anh thích em.</c.vietnamese>
+
+1029
+01:03:37,230 --> 01:03:40,358
+<c.vietnamese>Anh thích khuôn mặt dễ thương của em,
+thích cách em chăm con</c.vietnamese>
+
+1030
+01:03:40,441 --> 01:03:42,401
+<c.vietnamese>và cách nói chuyện phớt tỉnh của em.</c.vietnamese>
+
+1031
+01:03:43,611 --> 01:03:45,863
+<c.vietnamese>Mỗi ngày anh đều thích em hơn.</c.vietnamese>
+
+1032
+01:03:47,281 --> 01:03:50,576
+<c.vietnamese>Và sẽ tiếp tục thích hơn nữa.</c.vietnamese>
+
+1033
+01:03:51,661 --> 01:03:53,037
+<c.vietnamese>Đưa cho em luôn đi.</c.vietnamese>
+
+1034
+01:04:11,222 --> 01:04:12,223
+<c.vietnamese>Cảm ơn em.</c.vietnamese>
+
+1035
+01:04:14,642 --> 01:04:16,853
+<c.vietnamese>- Đây.
+- Cảm ơn nhé.</c.vietnamese>
+
+1036
+01:04:18,688 --> 01:04:19,897
+<c.vietnamese>Tớ sẽ thú thật.</c.vietnamese>
+
+1037
+01:04:19,981 --> 01:04:23,693
+<c.vietnamese>Sau khi biết cậu từng nổi đến vậy,
+tớ thấy hơi khó chịu.</c.vietnamese>
+
+1038
+01:04:23,776 --> 01:04:25,152
+<c.vietnamese>Vì sao?</c.vietnamese>
+
+1039
+01:04:25,236 --> 01:04:29,365
+<c.vietnamese>Cậu từng có cả triệu người theo dõi
+trên NeoTube, nhận cả đống tin nhắn.</c.vietnamese>
+
+1040
+01:04:29,991 --> 01:04:33,411
+<c.vietnamese>Chỉ vì tớ là bác sĩ thẩm mỹ
+có những lời khuyên hay</c.vietnamese>
+
+1041
+01:04:33,494 --> 01:04:35,913
+<c.vietnamese>và cư xử thân thiện với người xem thôi.</c.vietnamese>
+
+1042
+01:04:35,997 --> 01:04:39,500
+<c.vietnamese>Nhưng cậu khiến bọn con trai đổ
+vì vẻ ngoài xinh đẹp.</c.vietnamese>
+
+1043
+01:04:40,501 --> 01:04:41,419
+<c.vietnamese>Thế này…</c.vietnamese>
+
+1044
+01:04:41,502 --> 01:04:43,963
+<c.vietnamese>Thế này không ổn. Từ giờ che mặt cậu đi.</c.vietnamese>
+
+1045
+01:04:44,046 --> 01:04:45,381
+<c.vietnamese>Thôi, cho tớ xin.</c.vietnamese>
+
+1046
+01:04:46,549 --> 01:04:48,593
+<c.vietnamese>Phải rồi. Sao cậu không chuyển đi?</c.vietnamese>
+
+1047
+01:04:50,136 --> 01:04:51,429
+<c.vietnamese>- Chuyển đi á?
+- Phải.</c.vietnamese>
+
+1048
+01:04:51,929 --> 01:04:55,516
+<c.vietnamese>Ở đây chật hẹp, không thoải mái.
+Cậu có tiền để ở chỗ khác mà.</c.vietnamese>
+
+1049
+01:04:56,309 --> 01:04:58,603
+<c.vietnamese>Trời ạ. Nhưng tớ không muốn.</c.vietnamese>
+
+1050
+01:05:01,898 --> 01:05:04,442
+<c.vietnamese>Gần đây cậu bận rộn quá,</c.vietnamese>
+
+1051
+01:05:04,525 --> 01:05:07,028
+<c.vietnamese>ở đây tớ mới gặp cậu thường xuyên được.</c.vietnamese>
+
+1052
+01:05:08,487 --> 01:05:09,322
+<c.vietnamese>Cậu nghĩ thế à?</c.vietnamese>
+
+1053
+01:05:09,906 --> 01:05:13,117
+<c.vietnamese>Còn nữa, mẹ, cậu và Ba Da,</c.vietnamese>
+
+1054
+01:05:13,743 --> 01:05:15,077
+<c.vietnamese>tớ ngày càng thân thiết.</c.vietnamese>
+
+1055
+01:05:15,995 --> 01:05:17,747
+<c.vietnamese>Tớ thân với họ hơn cả bố mẹ tớ.</c.vietnamese>
+
+1056
+01:05:19,582 --> 01:05:22,460
+<c.vietnamese>Tớ muốn ở đây và tiếp tục sống với họ.</c.vietnamese>
+
+1057
+01:05:28,174 --> 01:05:29,050
+<c.vietnamese>Nếu thế, cậu muốn</c.vietnamese>
+
+1058
+01:05:30,092 --> 01:05:31,636
+<c.vietnamese>là người nhà tớ chứ?</c.vietnamese>
+
+1059
+01:05:35,139 --> 01:05:35,973
+<c.vietnamese>Gì cơ?</c.vietnamese>
+
+1060
+01:05:38,309 --> 01:05:39,894
+<c.vietnamese>Tớ muốn cậu là người nhà tớ.</c.vietnamese>
+
+1061
+01:05:43,981 --> 01:05:44,941
+<c.vietnamese>Ôi, không?</c.vietnamese>
+
+1062
+01:05:45,024 --> 01:05:46,651
+<c.vietnamese>Ôi, trời ơi!</c.vietnamese>
+
+1063
+01:05:46,734 --> 01:05:49,153
+<c.vietnamese>- Băng đâu rồi?
+- Trong hộc.</c.vietnamese>
+
+1064
+01:05:52,198 --> 01:05:53,449
+<c.vietnamese>Cầu…</c.vietnamese>
+
+1065
+01:05:53,532 --> 01:05:54,700
+<c.vietnamese>Không!</c.vietnamese>
+
+1066
+01:05:59,747 --> 01:06:00,998
+<c.vietnamese>Gì đây?</c.vietnamese>
+
+1067
+01:06:06,295 --> 01:06:07,797
+<c.vietnamese>Tớ mua cho cậu cả đấy.</c.vietnamese>
+
+1068
+01:06:09,715 --> 01:06:10,967
+<c.vietnamese>Toàn bộ á?</c.vietnamese>
+
+1069
+01:06:11,592 --> 01:06:12,927
+<c.vietnamese>Sao lại mua nhiều thế?</c.vietnamese>
+
+1070
+01:06:13,010 --> 01:06:16,889
+<c.vietnamese>Tớ chẳng biết cậu thích gì,
+nên tớ cứ mua dần từng thứ.</c.vietnamese>
+
+1071
+01:06:19,600 --> 01:06:23,187
+<c.vietnamese>Nhưng chẳng biết nói gì
+hay làm sao để tặng cậu.</c.vietnamese>
+
+1072
+01:06:23,688 --> 01:06:26,691
+<c.vietnamese>Nên đến giờ vẫn chưa thể đưa cho cậu.</c.vietnamese>
+
+1073
+01:06:29,068 --> 01:06:30,444
+<c.vietnamese>Cậu đúng là không tin nổi.</c.vietnamese>
+
+1074
+01:06:31,821 --> 01:06:33,489
+<c.vietnamese>Bôi chút thuốc đã.</c.vietnamese>
+
+1075
+01:06:54,051 --> 01:06:55,011
+<c.vietnamese>Trông như nhẫn vậy.</c.vietnamese>
+
+1076
+01:06:56,470 --> 01:06:57,513
+<c.vietnamese>Cậu nói phải.</c.vietnamese>
+
+1077
+01:06:58,639 --> 01:07:00,433
+<c.vietnamese>Tớ chỉ có cái nhẫn băng sơ cứu,</c.vietnamese>
+
+1078
+01:07:01,017 --> 01:07:02,935
+<c.vietnamese>còn cậu thì chuẩn bị quá nhiều cho tớ.</c.vietnamese>
+
+1079
+01:07:03,728 --> 01:07:05,354
+<c.vietnamese>Tớ thích cái này hơn nhiều.</c.vietnamese>
+
+1080
+01:07:07,440 --> 01:07:10,067
+<c.vietnamese>Mỗi khi tớ vật lộn hay đau đớn,</c.vietnamese>
+
+1081
+01:07:10,693 --> 01:07:12,445
+<c.vietnamese>cậu ôm chặt tớ như cái băng này.</c.vietnamese>
+
+1082
+01:07:14,947 --> 01:07:17,908
+<c.vietnamese>Đây là lời cầu hôn cảm động nhất đời.</c.vietnamese>
+
+1083
+01:07:20,161 --> 01:07:21,245
+<c.vietnamese>Cầu hôn à?</c.vietnamese>
+
+1084
+01:07:23,873 --> 01:07:25,458
+<c.vietnamese>Cậu muốn tớ làm người nhà.</c.vietnamese>
+
+1085
+01:07:27,209 --> 01:07:30,880
+<c.vietnamese>Ý tớ là ta nên làm người yêu
+thân thiết như người nhà.</c.vietnamese>
+
+1086
+01:07:30,963 --> 01:07:32,089
+<c.vietnamese>Này!</c.vietnamese>
+
+1087
+01:07:32,173 --> 01:07:33,007
+<c.vietnamese>Chờ đã.</c.vietnamese>
+
+1088
+01:07:33,716 --> 01:07:35,885
+<c.vietnamese>Đâu thể làm tim tớ đập loạn xạ
+rồi nói vậy!</c.vietnamese>
+
+1089
+01:07:36,635 --> 01:07:39,680
+<c.vietnamese>Không tin nổi cậu lừa tớ! Trời ạ.</c.vietnamese>
+
+1090
+01:07:40,473 --> 01:07:42,224
+<c.vietnamese>- Tớ…
+- Vậy thì là gì?</c.vietnamese>
+
+1091
+01:07:42,308 --> 01:07:44,310
+<c.vietnamese>Tớ hiểu rồi. Được rồi. Hiểu mà.</c.vietnamese>
+
+1092
+01:07:44,393 --> 01:07:45,227
+<c.vietnamese>Đợi đã.</c.vietnamese>
+
+1093
+01:07:45,311 --> 01:07:47,146
+<c.vietnamese>Nghe này, ý tớ chỉ là…</c.vietnamese>
+
+1094
+01:07:47,229 --> 01:07:48,606
+<c.vietnamese>Cậu làm gì vậy?</c.vietnamese>
+
+1095
+01:07:57,031 --> 01:07:57,907
+<c.vietnamese>Cậu đẹp quá.</c.vietnamese>
+
+1096
+01:07:58,866 --> 01:08:01,619
+<c.vietnamese>Cái gì đây? Lố quá. Trời ạ.</c.vietnamese>
+
+1097
+01:08:01,702 --> 01:08:06,457
+<c.vietnamese>Nhưng tình cảm tớ dành cho cậu quá lớn.
+Chứa chan lấp lánh luôn.</c.vietnamese>
+
+1098
+01:08:07,124 --> 01:08:08,167
+<c.vietnamese>Thật không tin nổi.</c.vietnamese>
+
+1099
+01:08:30,523 --> 01:08:32,525
+<c.vietnamese>Làm người nhà tớ nhé.</c.vietnamese>
+
+1100
+01:08:35,361 --> 01:08:38,322
+<c.vietnamese>Làm người yêu, người bạn,</c.vietnamese>
+
+1101
+01:08:39,782 --> 01:08:40,991
+<c.vietnamese>và cả người vợ nữa.</c.vietnamese>
+
+1102
+01:08:42,868 --> 01:08:44,328
+<c.vietnamese>Tớ muốn cậu</c.vietnamese>
+
+1103
+01:08:45,830 --> 01:08:47,373
+<c.vietnamese>là tất cả.</c.vietnamese>
+
+1104
+01:08:59,468 --> 01:09:00,594
+<c.vietnamese>MẸ KONG WOL SEON</c.vietnamese>
+
+1105
+01:09:05,766 --> 01:09:07,852
+<c.vietnamese>Bảo mẹ là tối nay cậu trực đêm.</c.vietnamese>
+
+1106
+01:09:09,145 --> 01:09:09,979
+<c.vietnamese>Gì?</c.vietnamese>
+
+1107
+01:10:31,352 --> 01:10:33,479
+<c.vietnamese>NỐT TRẦM ĐỜI BÁC SĨ</c.vietnamese>
+
+1108
+01:10:33,562 --> 01:10:34,980
+<c.vietnamese>Tớ bị từ chối à?</c.vietnamese>
+
+1109
+01:10:35,064 --> 01:10:36,732
+<c.vietnamese>- Chiến.
+- Cậu chẳng lấy được vợ.</c.vietnamese>
+
+1110
+01:10:37,274 --> 01:10:39,818
+<c.vietnamese><i>Trưởng khoa muốn tớ</i>
+<i>ra nước ngoài sáu tháng.</i></c.vietnamese>
+
+1111
+01:10:39,902 --> 01:10:42,071
+<c.vietnamese><i>Để cậu ở lại tớ thấy có lỗi lắm.</i></c.vietnamese>
+
+1112
+01:10:42,154 --> 01:10:45,241
+<c.vietnamese>Tớ đã bảo là
+sẽ không cản trở sự nghiệp của cậu mà.</c.vietnamese>
+
+1113
+01:10:45,324 --> 01:10:46,533
+<c.vietnamese>Jeong Woo.</c.vietnamese>
+
+1114
+01:10:47,159 --> 01:10:49,328
+<c.vietnamese>Đùa nhau hả?
+Làm sao tớ chờ nổi sáu tháng?</c.vietnamese>
+
+1115
+01:10:50,246 --> 01:10:51,664
+<c.vietnamese>Đừng đi mà!</c.vietnamese>
+
+1116
+01:10:51,747 --> 01:10:54,375
+<c.vietnamese>Tớ tự hào vì cậu là phụ nữ hiện đại.</c.vietnamese>
+
+1117
+01:10:54,458 --> 01:10:56,502
+<c.vietnamese>Đừng bỏ tớ mà!</c.vietnamese>
+
+1118
+01:10:56,585 --> 01:10:57,670
+<c.vietnamese>MỪNG ĐI CÔNG TÁC MỸ</c.vietnamese>
+
+1119
+01:10:57,753 --> 01:10:58,754
+<c.vietnamese><i>Nay tôi có thể vui…</i></c.vietnamese>
+
+1120
+01:10:58,837 --> 01:11:01,298
+<c.vietnamese>- Mong là ta tiếp tục hòa hợp.
+- Được.</c.vietnamese>
+
+1121
+01:11:01,382 --> 01:11:03,342
+<c.vietnamese><i>…rồi đột nhiên ngày mai lại buồn.</i></c.vietnamese>
+
+1122
+01:11:03,425 --> 01:11:04,385
+<c.vietnamese>Đi thôi.</c.vietnamese>
+
+1123
+01:11:04,468 --> 01:11:05,302
+<c.vietnamese><i>Nhưng không sao.</i></c.vietnamese>
+
+1124
+01:11:05,386 --> 01:11:06,637
+<c.vietnamese>Tôi sẽ nhận lời.</c.vietnamese>
+
+1125
+01:11:08,055 --> 01:11:11,267
+<c.vietnamese><i>Nếu có nỗi buồn,</i>
+<i>cũng sẽ luôn có hạnh phúc.</i></c.vietnamese>
+
+1126
+01:11:12,851 --> 01:11:15,271
+<c.vietnamese><i>Và thế là đủ.</i></c.vietnamese>
+
+1127
+01:11:17,648 --> 01:11:22,653
+<c.vietnamese>Biên dịch: Ka Nguyen</c.vietnamese>
+
